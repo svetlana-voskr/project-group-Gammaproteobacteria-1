@@ -4,10 +4,10 @@
 [ФИ] - анализируемый вид с ссылкой на личный репозиторий
 
 + Енгибарян Нарек - [Erwinia](https://github.com/narek01/hse22_project)
-+ Ганецкая Елизавета - Lysobacter
++ Ганецкая Елизавета - [Lysobacter](https://github.com/clumsyred-fox/hse22_project)
 + Таран Юлия - [Halomonas](https://github.com/tomat8jpg/hse2022_project)
 + Гречишкина Полина - [Klebsiella](https://github.com/Monopollia/HSE_project_22_orgs)
-+ Чечёкина Ольга - Aeromonas
++ Чечёкина Ольга - [Aeromonas](https://github.com/OlgaChechekina/Z-DNA_Aeromonas)
 + Бордюгов Максим - [Enterobacter](https://github.com/DedAzaMarks/hse22_project)
 + Шагаева Анна - [Mannheimia](https://github.com/shaggy99999/hse22_project)
 + Меньщиков Дмитрий - [Dickeya](https://github.com/mrGnost/hse22_project)
