@@ -18,7 +18,7 @@
 
 [Презентация](https://docs.google.com/presentation/d/1LozU8K9kk02SkZyUv_IBtKXBfuWemxfC3j8vcfUJtqk/edit#slide=id.p)
 
-[Таблица со статистикой]()
+[Таблица со статистикой](https://github.com/svetlana-voskr/project-group-Gammaproteobacteria-1/blob/lana/all_cluster_stats.tsv)
 
 ## Создание ортологичных кластеров
 
