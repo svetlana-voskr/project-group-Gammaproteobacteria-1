@@ -1,0 +1,2357 @@
+	# Species	Genes	Genuses	Genes_with_ZDNA	Max ZH-Score	Mean ZH-Score	Function
+977	50	73	10	18	211093.9	35448.16305	Cysteine desulfurase
+1391	48	69	10	18	23787.35	6762.253066666668	Sec-independent protein translocase subunit tata
+208	42	67	10	17	29467.88	3264.72525882353	P-ii family nitrogen regulator
+481	42	75	10	16	9852.15	2899.2377374999996	Hth-type transcriptional repressor purr
+560	49	88	10	15	29467.88	11363.642759999999	Lipoprotein-releasing abc transporter permease subunit lole
+125	44	61	10	14	28780.5	5917.269785714286	Pts phosphocarrier protein npr
+951	44	69	9	14	13713.99	2439.573871428572	Molybdopterin-synthase adenylyltransferase moeb
+266	50	73	10	13	7973.084	1474.325838461539	D-alanyl-d-alanine carboxypeptidase daca
+1024	49	68	10	13	3104.952	1036.4525153846155	Bcr/cfla family multidrug efflux mfs transporter
+599	36	54	9	13	2997.09	1725.2465	Formate dehydrogenase cytochrome b556 subunit
+2443	32	48	7	13	38833.58	5574.321076923077	Multidrug transporter subunit mdtd
+426	50	67	10	12	915.9191	905.0563249999999	Elongation factor g
+554	50	71	10	12	2752.447	1033.1859833333333	Sufe family protein
+1069	48	69	10	12	4545.701	1952.7467250000002	Aspartate aminotransferase family protein
+1065	49	71	10	11	8485.756	2752.3263000000006	Alanine racemase
+1935	40	63	9	11	13713.99	4667.275254545455	Plp-dependent aminotransferase family protein
+1203	38	49	10	11	6970.795	1756.930036363636	Dna-binding protein hu-beta
+519	49	75	10	10	38833.58	6057.81542	Serine endoprotease degp
+761	49	89	10	10	7973.084	2162.6204000000002	Nlpc/p60 family protein
+1032	49	76	10	10	13713.99	2186.6613100000004	Lpxl/lpxp family kdo(2)-lipid iv(a) lauroyl/palmitoleoyl acyltransferasee
+1294	38	53	10	10	13713.99	3830.4492999999993	Tonb-dependent siderophore receptor
+3028	38	51	8	10	6420.008	2036.27028	Glyoxylate/hydroxypyruvate reductase a
+2415	37	51	9	10	48804.94	12940.213800000001	Siroheme synthase cysg
+957	45	61	10	9	138924.1	22234.93035555556	Histidine phosphatase family protein
+2858	37	54	9	9	138924.1	18466.677833333335	Alkene reductase
+3144	36	53	8	9	37878.25	5858.401433333333	L,d-transpeptidase family protein
+601	35	53	9	9	1551.702	1322.6283111111109	Formate dehydrogenase-n subunit alpha
+5847	33	46	7	9	13713.99	3020.9078666666665	Dna-binding transcriptional regulator h-ns
+2936	27	48	8	9	6750.528	3553.4239777777784	Formate dehydrogenase subunit alpha
+1014	48	72	10	8	1737.612	1022.257925	Transketolase
+485	47	78	10	8	12351.13	3430.7014249999993	Transaldolase
+727	45	55	10	8	3428.529	1429.0531625	Phosphate abc transporter atp-binding protein pstb
+1223	44	56	9	8	38833.58	7876.542075000001	Glutathione-regulated potassium-efflux system protein kefb
+1191	42	59	9	8	2752.447	1586.043075	Hotdog fold thioesterase
+588	39	49	9	8	3428.529	1599.56845	Class ii fructose-bisphosphate aldolase
+1761	39	50	9	8	138924.1	38995.18245000001	Low molecular weight phosphotyrosine protein phosphatase
+2955	35	63	8	8	4545.701	1979.3487249999998	Abc transporter substrate-binding protein
+2923	34	46	8	8	16770.32	5097.137500000001	Cytochrome d ubiquinol oxidase subunit ii
+1326	29	39	8	8	4545.701	2536.128275	Hlyd family secretion protein
+27	27	37	9	8	8323.257	3982.06855	Tail protein x
+435	48	60	10	7	1038.827	919.6458	Fluoride efflux transporter crcb
+794	46	57	10	7	211093.9	56571.1882	Bifunctional nadp-dependent 3-hydroxy acid dehydrogenase/3-hydroxypropionate dehydrogenase ydfg
+1266	45	67	10	7	29467.88	7191.124528571428	Arac family transcriptional regulator
+827	44	62	9	7	1737.612	1264.2818571428575	Ubix family flavin prenyltransferase
+1979	43	56	9	7	3858.662	2331.5807714285716	Two-component system response regulator baer
+6739	42	65	9	7	13713.99	3262.0172285714284	Nucleoside hydrolase
+2694	38	56	9	7	138924.1	22695.72428571428	Nitrite reductase large subunit nirb
+157	37	47	9	7	883.5764	883.5764	Glutathione-regulated potassium-efflux system ancillary protein kefg
+2665	35	42	8	7	8922.646	3931.1284714285716	Cob(i)yrinic acid a,c-diamide adenosyltransferase
+1370	34	46	8	7	3993.322	2849.725857142857	Glycogen debranching protein glgx
+1881	33	40	8	7	198956.2	29559.211428571438	Lysine decarboxylase ldcc
+2862	33	41	9	7	27872.66	14822.998428571429	Antibiotic biosynthesis monooxygenase
+504	32	43	8	7	6565.992	2995.3879714285713	Metal abc transporter substrate-binding protein
+609	29	39	8	7	13713.99	3550.784685714286	Metq/nlpa family abc transporter substrate-binding protein
+3284	29	39	8	7	13072.54	2856.7496857142864	Hydroxyisourate hydrolase
+2294	28	35	8	7	13713.99	3375.3844571428567	Ybdd/yjix family protein
+751	49	65	10	6	302785.5	107246.99133333332	Histidinol-phosphate transaminase
+1227	47	78	10	6	1116.621	983.4731333333334	L-serine ammonia-lyase
+360	44	58	9	6	1202.592	1022.3731666666669	M48 family metallopeptidase
+1785	44	64	9	6	1301.77	946.4912666666668	Glutathione peroxidase
+1332	43	57	10	6	13713.99	5651.522666666667	Phzf family phenazine biosynthesis protein
+1135	41	54	9	6	6420.008	2676.2518333333333	Glycerate kinase
+1359	40	62	10	6	980.8116	887.9273	Nad-dependent succinate-semialdehyde dehydrogenase
+1649	36	46	8	6	13713.99	4186.721166666667	Undecaprenyl-phosphate 4-deoxy-4-formamido-l-arabinose transferase
+3012	36	42	8	6	8485.756	6119.302116666666	Cytosine deaminase
+381	34	44	10	6	3993.322	1786.9586166666666	Catalase
+1764	31	37	8	6	28780.5	6413.792933333333	Multidrug efflux mfs transporter periplasmic adaptor subunit emra
+1749	30	37	8	6	13713.99	4347.470733333333	L-ala-d/l-glu epimerase
+6468	29	44	6	6	8156.898	2173.238733333333	Sugar efflux transporter
+6782	27	38	10	6	13713.99	4912.798266666666	Lysr family transcriptional regulator
+5905	26	32	6	6	3428.529	1213.0168166666665	Hypc/hybg/hupf family hydrogenase formation chaperone
+6709	26	36	8	6	883.5764	829.8429500000001	Dihydroxyacetone kinase subunit dhak
+840	25	32	9	6	17253.57	7287.0197	Phage tail protein i
+4509	25	35	8	6	198956.2	75054.8404	Abc transporter atp-binding protein
+228	50	68	10	5	4545.701	1752.5179799999999	Cupin domain-containing protein
+249	45	52	10	5	13713.99	9406.0412	Diaminopimelate decarboxylase
+544	45	51	10	5	38833.58	10094.55372	Tonb system transport protein exbd
+2221	43	52	9	5	12351.13	4385.32232	Cytochrome o ubiquinol oxidase subunit i
+2886	40	51	9	5	8922.646	2552.23488	4-aminobutyrate--2-oxoglutarate transaminase
+88	39	74	10	5	2765.963	1254.9945	Cold-shock protein
+170	39	44	9	5	2752.447	2242.1848800000002	Biotin-dependent carboxyltransferase family protein
+825	37	47	10	5	1737.612	1034.43284	Murr/rpir family transcriptional regulator
+2493	37	44	9	5	13713.99	3717.46336	Flagellar type iii secretion system protein flhb
+321	36	44	8	5	2752.447	1296.2446	Glutamine abc transporter atp-binding protein glnq
+151	35	51	10	5	28780.5	7500.3892000000005	Hlyd family type i secretion periplasmic adaptor subunit
+724	35	41	8	5	10272.33	3798.98492	Phosphate abc transporter substrate-binding protein psts
+3888	35	45	9	5	6565.992	3183.5941599999996	Atp-binding protein
+1604	34	44	9	5	1456.636	908.2801	Efflux rnd transporter permease subunit
+2153	34	43	8	5	138924.1	48847.636000000006	Two-component system response regulator btsr
+2490	34	44	8	5	3428.529	1328.8635399999998	Flagellar basal body l-ring protein flgh
+2654	34	39	9	5	38833.58	11039.65984	Flagellar type iii secretion system pore protein flip
+2726	34	43	8	5	38833.58	16569.719540000002	Dienelactone hydrolase family protein
+3077	34	52	9	5	6910.52	2790.89528	L,d-transpeptidase
+1763	33	43	8	5	980.8116	903.0234400000002	Dha2 family efflux mfs transporter permease subunit
+3699	33	44	9	5	1273.964	839.7847399999998	Type vi secretion system baseplate subunit tssf
+3847	33	43	9	5	66470.78	31338.267000000003	Type vi secretion system atpase tssh
+3732	32	49	9	5	2091.083	1051.27334	Undecaprenyl-phosphate glucose phosphotransferase
+35	31	50	8	5	13713.99	4372.83624	Malate/lactate/ureidoglycolate dehydrogenase
+2850	31	36	8	5	1403.277	1010.6004599999999	Flagellar motor switch protein flig
+841	27	32	9	5	8485.756	7409.595200000001	Phage tail sheath protein
+1315	27	37	7	5	13713.99	6545.3534	Mfs transporter
+838	26	31	9	5	2752.447	1920.20202	Gpw/gp25 family protein
+3006	26	34	7	5	3428.529	1392.56692	2-dehydro-3-deoxyglucarate aldolase
+4322	26	37	9	5	2169.599	1118.6463200000003	Helix-turn-helix transcriptional regulator
+5819	26	38	7	5	13713.99	4355.64204	Metal/formaldehyde-sensitive transcriptional repressor
+6325	26	32	7	5	13713.99	8939.74076	Glutathionylspermidine synthase family protein
+9409	26	32	9	5	38833.58	12183.472	Phage tail protein
+10205	25	33	8	5	3428.529	1377.58006	Replication endonuclease
+697	48	59	10	4	4914.146	1891.2188	Iron-sulfur cluster assembly protein isca
+58	47	53	10	4	3428.529	2565.1062	Protein fmn transferase
+1103	47	65	10	4	1733.503	1263.08945	Trimeric intracellular cation channel family protein
+1043	46	51	10	4	21732.38	8446.20075	Dihydrolipoyl dehydrogenase
+785	45	49	10	4	13713.99	10530.695399999999	Glyceraldehyde-3-phosphate dehydrogenase
+1149	43	48	9	4	783.823	783.823	Phosphoenolpyruvate carboxykinase (atp)
+1679	43	50	9	4	3174.797	1987.639625	Glucose-1-phosphate thymidylyltransferase rfba
+1501	42	46	10	4	3428.529	1530.18635	Glycerophosphodiester phosphodiesterase
+1462	40	51	10	4	6565.992	2947.6461	Gnat family n-acetyltransferase
+153	39	51	10	4	13713.99	4079.1589	Type i secretion system permease/atpase
+2952	39	48	8	4	908.3955	908.3955	Histidine abc transporter atp-binding protein hisp
+250	36	46	10	4	8323.257	3195.5153	Glutathione transferase gsta
+985	36	53	10	4	3428.529	2273.9688	Arac family transcriptional regulator
+2851	36	41	9	4	904.32	899.1341	Flagellar m-ring protein flif
+607	35	47	9	4	6408.923	2277.2176	Abc transporter permease
+2657	35	40	9	4	13713.99	5217.285749999999	Flagellum-specific atp synthase flii
+1692	34	38	8	4	9492.083	7302.1455000000005	Abc transporter permease
+3761	33	38	8	4	16770.32	8374.82125	Flagellar assembly peptidoglycan hydrolase flgj
+3848	33	44	9	4	3333.338	1678.5688249999998	Type vi secretion system baseplate subunit tssg
+408	32	41	9	4	883.5764	805.6253750000001	Amino acid abc transporter atp-binding protein
+1750	32	47	9	4	29467.88	11292.2504	Voc family protein
+2863	32	38	8	4	2173.083	1850.70635	Eal domain-containing protein
+2094	31	40	8	4	4057.419	2268.1935249999997	Mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+1406	30	36	9	4	3428.529	2168.46225	Secretion protein hlyd
+2028	30	35	7	4	211093.9	109101.91579999999	Quinone oxidoreductase
+1727	29	42	9	4	38833.58	10444.04025	Lysr family transcriptional regulator
+1800	29	36	7	4	38833.58	12153.780250000002	Response regulator transcription factor
+2633	29	36	9	4	74987.35	23253.361350000003	Sigma-70 family rna polymerase sigma factor
+2944	29	34	8	4	3428.529	2425.01155	Chemotaxis response regulator protein-glutamate methylesterase
+2909	28	33	6	4	3051.765	1856.6765500000001	Lysr family transcriptional regulator
+189	27	35	10	4	3993.322	1968.3169000000003	Multidrug efflux smr transporter
+839	27	34	9	4	2752.447	1067.51665	Baseplate assembly protein
+2110	27	35	7	4	13713.99	4445.034125	Antibiotic biosynthesis monooxygenase
+2478	27	32	6	4	4545.701	3151.33775	Gnat family n-acetyltransferase
+5159	27	34	9	4	1994.814	1161.3858	Lysr family transcriptional regulator
+1972	26	36	8	4	13713.99	7435.589099999999	Alpha/beta hydrolase
+3275	26	34	8	4	3428.529	2131.1143500000003	Tetr/acrr family transcriptional regulator
+4149	26	31	7	4	5485.32	4537.236	Magnesium-translocating p-type atpase
+5970	26	30	6	4	3428.529	2816.59965	Hydrogenase maturation nickel metallochaperone hypa
+5997	26	31	7	4	13713.99	4669.73625	Sugar abc transporter permease
+2663	25	31	8	4	13713.99	4091.1798	Sdr family oxidoreductase
+2808	25	34	7	4	8485.756	3242.1922499999996	Mbl fold metallo-hydrolase
+6887	25	29	7	4	8485.756	4692.83575	Tagaturonate reductase
+129	49	52	10	3	1117.472	961.5416	Porphobilinogen synthase
+852	48	52	10	3	3135.789	1669.7850666666666	Utp--glucose-1-phosphate uridylyltransferase galu
+128	47	52	10	3	9300.843	3664.1269666666667	Pirin family protein
+1093	46	51	10	3	908.3955	908.3955	Pyruvate kinase
+1200	46	49	10	3	3428.529	1870.6442	Cardiolipin synthase
+66	45	49	10	3	3428.529	1914.3018	Transcriptional regulator gcva
+1590	44	47	10	3	38833.58	18095.060666666668	Tonb-dependent vitamin b12 receptor btub
+134	42	50	9	3	883.5764	883.5764	Ornithine carbamoyltransferase
+482	41	44	10	3	302785.5	102637.51166666666	Two-component system response regulator narl
+6228	39	42	8	3	908.3955	891.8494333333333	S-ribosylhomocysteine lyase
+1593	38	48	9	3	2752.447	1506.5332666666666	Efflux rnd transporter permease subunit
+1671	38	41	8	3	2752.447	2752.447	Hutd family protein
+2052	38	50	9	3	4545.701	2022.6017	Lipocalin family protein
+2115	38	54	10	3	2752.447	1506.5332666666666	Transketolase family protein
+3076	38	43	9	3	13713.99	6857.016	4'-phosphopantetheinyl transferase superfamily protein
+2488	37	40	9	3	2943.461	2310.5603333333333	Flagellar basal body p-ring protein flgi
+2500	36	48	9	3	8485.756	3819.194333333333	Carboxymuconolactone decarboxylase family protein
+2491	35	40	9	3	3428.529	2580.211466666667	Flagellar basal-body rod protein flgg
+2943	35	39	8	3	8485.756	3453.260866666666	Protein phosphatase chez
+540	34	48	8	3	10894.72	5691.898666666667	Carbon starvation protein a
+594	34	43	8	3	28780.5	12544.757333333333	Abc transporter atp-binding protein
+2940	34	40	8	3	3428.529	2580.211466666667	Flagellar basal body rod protein flgf
+3171	34	48	8	3	3428.529	1809.5754666666664	Chemotaxis protein chea
+6758	34	40	9	3	2779.551	2137.2064666666665	Alkaline phosphatase
+6806	34	37	8	3	883.5764	883.5764	Nicotinamide riboside transporter pnuc
+1279	33	37	9	3	6680.689	2824.2203000000004	Iron-enterobactin abc transporter atp-binding protein
+3817	33	39	9	3	3804.257	2672.203	Siderophore-interacting protein
+641	32	39	8	3	27872.66	10994.817333333332	Efflux transporter outer membrane subunit
+1449	32	36	8	3	13713.99	13713.99	Arac family transcriptional regulator
+1458	32	39	8	3	3428.529	1739.7173666666667	Phosphomannomutase/phosphoglucomutase
+4321	32	47	8	3	27872.66	11006.597133333335	2-dehydro-3-deoxy-d-gluconate 5-dehydrogenase kdud
+3154	31	35	8	3	883.5764	672.9728666666666	Hth-type transcriptional regulator rutr
+3698	31	38	8	3	883.5764	883.5764	Type vi secretion system contractile sheath large subunit
+1493	30	33	9	3	38833.58	16213.267466666666	Lysr family transcriptional regulator
+1848	30	34	6	3	883.5764	653.6034333333333	Agmatine deiminase
+3039	30	45	8	3	2752.447	1583.6474666666666	Lyse family translocator
+3701	30	65	9	3	13713.99	9469.5972	Type vi secretion system tip protein vgrg
+4159	30	37	7	3	904.32	890.4909333333334	D-cysteine desulfhydrase
+809	29	34	7	3	883.5764	750.2759666666666	Dmt family transporter
+899	29	40	9	3	28780.5	10158.8542	Dihydropyrimidinase
+1477	29	38	9	3	3428.529	2053.3290666666667	Four-carbon acid sugar kinase family protein
+2958	29	39	9	3	138924.1	46848.86473333334	Type 1 glutamine amidotransferase domain-containing protein
+3127	29	35	6	3	980.8116	882.7370000000001	Sulfonate abc transporter substrate-binding protein
+3666	29	44	7	3	3428.529	1731.0545333333332	Translesion error-prone dna polymerase v autoproteolytic subunit
+6871	29	36	7	3	2752.447	1428.5644666666667	Pyridoxal phosphate-dependent aminotransferase
+843	28	32	9	3	74987.35	26441.424833333334	Phage late control d family protein
+1236	28	33	7	3	4545.701	2192.2311666666665	Aec family transporter
+1952	28	36	7	3	1551.702	1138.6966666666667	Alpha/beta hydrolase
+836	27	36	8	3	6898.532	3736.8791333333334	Trar/dksa family transcriptional regulator
+2948	27	33	7	3	908.3955	736.7450333333333	Lysr substrate-binding domain-containing protein
+1310	26	33	10	3	5351.021	2430.5684666666666	Ferric-rhodotorulic acid/ferric-coprogen receptor fhue
+1344	26	37	6	3	2752.447	1686.3196666666665	Universal stress protein
+3674	26	40	8	3	6565.992	3055.0655	Malate dehydrogenase (quinone)
+9412	25	29	8	3	883.5764	811.3408666666666	Phage tail protein
+471	49	64	10	2	908.3955	908.3955	D-alanine--d-alanine ligase
+796	49	51	10	2	980.8116	815.8657000000001	Tryptophan synthase subunit alpha
+952	49	57	10	2	2752.447	1977.0590000000002	Molybdopterin molybdotransferase moea
+1009	49	54	10	2	8323.257	4762.464	Riboflavin synthase
+403	48	54	10	2	3661.11	3206.7785000000003	Ketoacyl-acp synthase iii
+557	48	53	10	2	50885.97	27157.2495	Aminodeoxychorismate/anthranilate synthase component ii
+788	48	52	10	2	2943.461	1855.0421	Rida family protein
+47	47	52	10	2	6565.992	3773.4018	Copper-exporting p-type atpase copa
+694	47	53	10	2	3804.257	3282.8535	Methylated-dna--
+213	45	51	10	2	3428.529	2273.0005	Yban family protein
+987	45	47	10	2	13713.99	7298.7832	Transcriptional repressor lexa
+1122	45	51	10	2	2659.79	1844.9975	Ncs2 family permease
+1228	44	48	10	2	2779.551	1831.5637	Rida family protein
+1379	44	49	9	2	961.0532	761.11445	Udp-glucose/gdp-mannose dehydrogenase family protein
+1786	44	51	9	2	13713.99	8613.004	Ferredoxin--nadp(+) reductase
+155	43	51	10	2	28780.5	15909.873	Nitrate reductase
+204	43	58	10	2	1202.592	1043.0842	Elongation factor tu
+848	43	45	10	2	2752.447	1866.6293	Fumarate/nitrate reduction transcriptional regulator fnr
+1371	43	45	10	2	13713.99	7314.9545499999995	Oxidoreductase
+2143	42	48	9	2	3428.529	2695.118	Lytic murein transglycosylase b
+2173	42	45	9	2	302785.5	184334.805	Nad-dependent epimerase
+1551	41	51	10	2	3428.529	2156.0527	Multicopper oxidase cueo
+2284	41	43	9	2	1737.612	1359.2118	Amidohydrolase
+2508	41	49	9	2	4860.206	3806.3265	Oxidoreductase
+274	40	46	9	2	138924.1	71176.31450000001	Bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+1115	40	51	10	2	8782.157	5119.3965	Udp-glucose 4-epimerase gale
+1267	40	49	10	2	883.5764	883.5764	Organic hydroperoxide resistance protein
+2678	40	50	9	2	1005.56	989.8685	Mfs transporter
+6644	40	42	9	2	3428.529	2328.6245	Ribokinase
+620	39	67	10	2	13713.99	7426.4915	Sn-glycerol-3-phosphate abc transporter atp-binding protein ugpc
+1312	39	43	10	2	1232.502	1008.1624999999999	Phosphoethanolamine transferase epta
+1629	39	44	8	2	4545.701	2808.679	Fumarylacetoacetate hydrolase family protein
+1757	39	42	8	2	6680.689	3749.48225	3-mercaptopyruvate sulfurtransferase
+6321	39	44	8	2	980.8116	932.194	Calcium/sodium antiporter
+1271	38	44	9	2	2752.447	2752.447	Nitrate/nitrite two-component system sensor histidine kinase narq
+2359	38	42	9	2	653.7716	631.08865	Lysr family transcriptional regulator
+2692	38	44	9	2	1726.678	1472.063	Asparagine synthase b
+6074	38	40	9	2	3428.529	2204.6702999999998	Na+/h+ antiporter nhaa
+367	37	40	10	2	38833.58	26273.785	Nad(p)h-dependent oxidoreductase
+639	37	45	9	2	2752.447	1866.6293	Amino acid permease
+3064	37	48	8	2	2752.447	1934.534	Branched-chain amino acid abc transporter substrate-binding protein
+410	36	38	9	2	6420.008	3651.7922	Amino acid abc transporter permease
+879	36	44	9	2	2752.447	1703.3476	Nadp-specific glutamate dehydrogenase
+1300	36	43	10	2	2659.79	1685.9885	Efflux rnd transporter periplasmic adaptor subunit
+2074	36	41	8	2	27872.66	14494.6405	Low affinity potassium transporter kup
+1140	35	37	9	2	2752.447	1818.0117	Sulp family inorganic anion transporter
+1917	35	42	8	2	2752.447	1768.135	Cyclopropane fatty acyl phospholipid synthase
+2308	35	39	8	2	1430.8	1040.8599	Gsh-dependent disulfide bond oxidoreductase
+3036	35	37	9	2	3881.305	2603.715	Response regulator
+364	34	36	8	2	1201.671	1042.6237	Sulfite exporter taue/safe family protein
+1179	34	37	7	2	915.9191	915.9191	Aspartate/tyrosine/aromatic aminotransferase
+1577	34	43	8	2	883.5764	883.5764	Aldo/keto reductase
+2995	34	37	8	2	13713.99	8233.218499999999	Atze family amidohydrolase
+956	33	36	8	2	2752.447	1768.135	Glutathione s-transferase
+1324	33	36	9	2	13713.99	8571.2595	Beta-glucosidase bglx
+1325	33	36	9	2	3428.529	3097.246	Azlc family abc transporter permease
+1708	33	36	8	2	2752.447	1818.0117	Phosphonate abc transporter substrate-binding protein
+3317	33	35	7	2	6420.008	3490.59185	Succinylglutamate-semialdehyde dehydrogenase
+6012	33	36	7	2	3428.529	2626.0	Bifunctional acetaldehyde-coa/alcohol dehydrogenase
+6613	33	39	7	2	883.5764	883.5764	Molybdopterin guanine dinucleotide-containing s/n-oxide reductase
+1873	32	39	7	2	13072.54	6978.0582	Efflux rnd transporter permease subunit
+1930	32	35	8	2	3428.529	2315.5605	Voc family protein
+3119	32	37	8	2	883.5764	883.5764	Flagellar motor stator protein mota
+621	31	33	9	2	3428.529	3428.529	Sn-glycerol-3-phosphate import atp-binding protein ugpc
+1812	31	37	8	2	2945.877	2945.877	Apc family permease
+6429	31	41	7	2	1493.421	1237.1163000000001	Virk/ybjx family protein
+600	30	34	8	2	138924.1	70094.14450000001	Formate dehydrogenase subunit beta
+845	30	37	9	2	2761.45	1733.43725	Tyrosine-type recombinase/integrase
+1982	30	34	8	2	980.8116	932.194	Pirin family protein
+3697	30	34	8	2	2264.006	1573.7912	Type vi secretion system contractile sheath small subunit
+1241	29	34	10	2	4553.39	2767.1008	(s)-acetoin forming diacetyl reductase
+2897	29	36	7	2	2752.447	1699.7927	Fad-binding oxidoreductase
+3829	29	35	9	2	1264.189	1084.2545	Pdr/vanb family oxidoreductase
+6335	29	35	6	2	138924.1	70063.346	L-ribulose-5-phosphate 4-epimerase
+6769	29	35	7	2	1008.605	994.7083	Isopenicillin n synthase family oxygenase
+1791	28	35	9	2	1323.054	1323.054	Lysr family transcriptional regulator
+2572	28	30	8	2	1430.8	1041.0970499999999	Mmcq/yjbr family dna-binding protein
+2622	28	34	8	2	2752.447	1977.0590000000002	Tonb-dependent receptor
+1380	27	32	9	2	959.6069	760.3913	Coa transferase subunit a
+1492	27	29	9	2	3428.529	2156.0527	Flavin oxidoreductase/nadh oxidase
+3244	27	31	8	2	3700.972	3700.972	Oxidoreductase
+6342	27	31	9	2	766.6232	708.7715000000001	Yafy family transcriptional regulator
+486	26	28	8	2	8485.756	5334.665	Plp-dependent aminotransferase family protein
+1915	26	32	8	2	38833.58	19935.4165	Gfa family protein
+2059	26	32	8	2	3140.96	2024.67775	Helix-turn-helix transcriptional regulator
+2342	26	29	8	2	2091.083	2091.083	Efflux rnd transporter periplasmic adaptor subunit
+5836	26	28	6	2	883.5764	883.5764	Dna damage-inducible protein i
+1444	25	29	6	2	13713.99	7298.7832	Amidohydrolase
+2111	25	29	8	2	13713.99	8258.173	Sdr family oxidoreductase
+2440	25	28	8	2	4860.206	4860.206	Metalloregulator arsr/smtb family transcription factor
+6360	25	29	7	2	3514.935	2140.7790999999997	Thioredoxin family protein
+116	49	50	10	1	3428.529	3428.529	Ferrochelatase
+210	49	50	10	1	980.8116	980.8116	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+795	49	51	10	1	2752.447	2752.447	Tryptophan synthase subunit beta
+996	49	50	10	1	1323.054	1323.054	Exodeoxyribonuclease v subunit beta
+1216	49	53	10	1	883.5764	883.5764	Bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+400	48	51	10	1	1248.717	1248.717	Disulfide interchange protein dsba
+421	48	50	10	1	826.8355	826.8355	Archaetidylserine decarboxylase
+597	48	49	10	1	3428.529	3428.529	Glutathione-disulfide reductase
+791	48	53	10	1	883.5764	883.5764	Lysine--trna ligase
+820	48	53	10	1	1323.054	1323.054	Gtp 3',8-cyclase moaa
+1008	48	56	10	1	3428.529	3428.529	3,4-dihydroxy-2-butanone-4-phosphate synthase
+1074	48	54	10	1	2752.447	2752.447	Peptide-methionine (s)-s-oxide reductase msra
+1080	48	50	10	1	826.2209	826.2209	Glucose-6-phosphate isomerase
+538	47	48	10	1	908.3955	908.3955	Inositol-1-monophosphatase
+616	47	48	10	1	65884.11	65884.11	Exodeoxyribonuclease iii
+276	46	52	10	1	6970.795	6970.795	Fkbp-type peptidyl-prolyl cis-trans isomerase
+91	45	54	10	1	546.8554	546.8554	Mbl fold metallo-hydrolase
+603	45	46	10	1	1228.72	1228.72	Peptidylprolyl isomerase
+1075	45	46	10	1	38833.58	38833.58	Envelope biogenesis factor elyc
+1299	45	52	10	1	6565.992	6565.992	Long-chain fatty acid transporter fadl
+1336	45	46	10	1	13713.99	13713.99	Eama family transporter rard
+31	44	50	10	1	2752.447	2752.447	Cu(i)-responsive transcriptional regulator
+197	44	45	10	1	6565.992	6565.992	Fad-binding oxidoreductase
+451	44	45	9	1	2943.461	2943.461	3'(2'),5'-bisphosphate nucleotidase cysq
+602	44	48	10	1	3428.529	3428.529	Formate dehydrogenase accessory sulfurtransferase fdhd
+1022	44	47	9	1	828.6824	828.6824	Dgtpase
+1274	44	45	10	1	1677.063	1677.063	Nadp-dependent oxaloacetate-decarboxylating malate dehydrogenase
+1469	44	45	10	1	13713.99	13713.99	Llm class flavin-dependent oxidoreductase
+1566	44	51	9	1	980.8116	980.8116	Molybdenum cofactor biosynthesis protein b
+1580	44	45	10	1	3428.529	3428.529	Trifunctional transcriptional regulator/proline dehydrogenase/l-glutamate gamma-semialdehyde dehydrogenase
+1970	44	46	9	1	2752.447	2752.447	Putative lipopolysaccharide heptosyltransferase iii
+2280	44	58	9	1	650.9198	650.9198	Fumarate hydratase
+2334	44	45	9	1	1430.8	1430.8	M48 family metalloprotease
+2381	44	45	9	1	38833.58	38833.58	Abc transporter atp-binding protein
+1751	43	45	9	1	13713.99	13713.99	Glucokinase
+182	42	49	9	1	883.5764	883.5764	Dipeptide abc transporter permease dppb
+823	42	47	10	1	4615.4	4615.4	Lysine-sensitive aspartokinase 3
+861	42	54	9	1	1138.993	1138.993	Acetate kinase
+1338	42	43	10	1	1743.107	1743.107	Urocanate hydratase
+2154	42	43	9	1	1138.993	1138.993	Patatin-like phospholipase rssa
+2225	42	48	9	1	505.8732	505.8732	Heme o synthase
+2231	42	43	9	1	766.6232	766.6232	S-(hydroxymethyl)glutathione dehydrogenase/class iii alcohol dehydrogenase
+2345	42	43	9	1	1737.612	1737.612	Glycine zipper 2tm domain-containing protein
+26	41	44	9	1	883.5764	883.5764	5-oxoprolinase subunit pxpb
+1288	41	42	9	1	4270.735	4270.735	Two-component system sensor histidine kinase rstb
+1666	41	45	9	1	883.5764	883.5764	Sulfate adenylyltransferase subunit cysd
+25	40	57	9	1	1164.52	1164.52	5-oxoprolinase subunit pxpa
+2237	40	41	9	1	94590.41	94590.41	Two-component system response regulator kdpe
+2910	40	44	9	1	13713.99	13713.99	Lysr family transcriptional regulator
+1434	39	45	9	1	883.5764	883.5764	Cidb/lrgb family autolysis modulator
+1479	39	44	9	1	783.823	783.823	Aldehyde dehydrogenase
+1710	39	44	9	1	1390.269	1390.269	Hemolysin family protein
+2356	39	41	9	1	2264.006	2264.006	Sulfate/thiosulfate abc transporter atp-binding protein cysa
+2595	39	41	9	1	1248.717	1248.717	Histidine utilization repressor
+5936	39	52	9	1	1264.189	1264.189	Nupc/nupg family nucleoside cnt transporter
+6208	39	40	8	1	13713.99	13713.99	Oxidative stress defense protein
+192	38	39	10	1	1743.107	1743.107	Aquaporin z
+318	38	40	10	1	2183.574	2183.574	Deor family transcriptional regulator
+3104	38	39	9	1	908.3955	908.3955	Mfs transporter
+3508	38	41	8	1	766.6232	766.6232	Two-component system response regulator rssb
+339	37	40	9	1	591.4854	591.4854	Coa-acylating methylmalonate-semialdehyde dehydrogenase
+2418	37	44	8	1	4576.539	4576.539	Nitric oxide-sensing transcriptional repressor nsrr
+2485	37	44	9	1	883.5764	883.5764	Flagellar hook protein flge
+2830	37	38	8	1	13939.35	13939.35	Deaminated glutathione amidase
+2836	37	38	8	1	1078.193	1078.193	Duf523 and duf1722 domain-containing protein
+2912	37	41	8	1	1008.605	1008.605	Extracellular solute-binding protein
+203	36	39	8	1	2183.574	2183.574	Pyridoxal kinase pdxy
+380	36	39	9	1	2659.79	2659.79	Na+/h+ antiporter
+517	36	37	10	1	980.8116	980.8116	Lysr family transcriptional regulator
+617	36	39	8	1	766.6232	766.6232	4-alpha-glucanotransferase
+1426	36	40	8	1	974.177	974.177	Abc transporter atp-binding protein
+1782	36	40	9	1	1138.993	1138.993	Fdhf/ydep family oxidoreductase
+2265	36	40	8	1	883.5764	883.5764	Glutamine amidotransferase
+2351	36	37	9	1	13713.99	13713.99	Lipid iv(a) 4-amino-4-deoxy-l-arabinosyltransferase
+2647	36	46	9	1	1915.432	1915.432	Mfs transporter
+2756	36	38	8	1	546.8554	546.8554	Zn(ii)/cd(ii)/pb(ii) translocating p-type atpase znta
+2892	36	37	8	1	3135.789	3135.789	Aminodeoxychorismate synthase component 1
+2446	35	41	8	1	1248.717	1248.717	Hth-type transcriptional activator aaer
+2487	35	41	9	1	2752.447	2752.447	Flagellar basal body rod protein flgc
+3061	35	36	8	1	13713.99	13713.99	High-affinity branched-chain amino acid abc transporter atp-binding protein livg
+3167	35	46	8	1	766.6232	766.6232	Cytochrome ubiquinol oxidase subunit i
+3471	35	39	9	1	875.0314	875.0314	Pqq-dependent sugar dehydrogenase
+993	34	37	9	1	883.5764	883.5764	Ketopantoate/pantoate/pantothenate transporter pans
+1084	34	37	8	1	826.2209	826.2209	Arginine abc transporter substrate-binding protein
+1198	34	36	8	1	883.5764	883.5764	Glutamine abc transporter permease glnp
+1347	34	45	9	1	783.823	783.823	Abc transporter atp-binding protein
+1680	34	35	9	1	3428.529	3428.529	Dtdp-4-dehydrorhamnose 3,5-epimerase
+2306	34	36	8	1	883.5764	883.5764	Cardiolipin synthase clsb
+2852	34	36	8	1	739.95	739.95	Flagellar filament capping protein flid
+3118	34	37	9	1	2752.447	2752.447	Multidrug abc transporter permease/atp-binding protein
+3453	34	35	8	1	13713.99	13713.99	Nadp-dependent oxidoreductase
+3550	34	36	8	1	650.9198	650.9198	Phosphonate abc transporter atp-binding protein
+3606	34	35	8	1	904.32	904.32	Duf488 family protein
+89	33	52	8	1	883.5764	883.5764	Cold-shock protein
+176	33	34	7	1	883.5764	883.5764	Heme lyase ccmf/nrfe family subunit
+1755	33	35	8	1	2752.447	2752.447	Alpha,alpha-phosphotrehalase
+2655	33	39	9	1	908.3955	908.3955	Flagellar motor switch protein flin
+2996	33	35	7	1	883.5764	883.5764	Gntr family transcriptional regulator
+3051	33	44	8	1	783.823	783.823	Peptidylprolyl isomerase
+3082	33	34	8	1	1430.8	1430.8	Flagellar export chaperone flis
+6748	33	34	9	1	2183.574	2183.574	Fe(3+)-hydroxamate abc transporter permease fhub
+6799	33	34	7	1	980.8116	980.8116	N-acetylglucosamine-specific pts transporter subunit iibc
+618	32	34	7	1	883.5764	883.5764	Maltodextrin phosphorylase
+1357	32	33	7	1	2752.447	2752.447	Amino acid abc transporter substrate-binding protein
+3018	32	40	8	1	1737.612	1737.612	Amino acid permease
+3131	32	33	8	1	2659.79	2659.79	Guanine deaminase
+3210	32	38	7	1	4876.735	4876.735	Abc transporter atp-binding protein
+3405	32	35	7	1	2752.447	2752.447	Flavorubredoxin reductase norw
+5816	32	37	7	1	2183.574	2183.574	Hi1450 family dsdna-mimic protein
+5829	32	37	9	1	27872.66	27872.66	Kinase inhibitor
+6109	32	34	7	1	1202.592	1202.592	Galactose-1-phosphate uridylyltransferase
+6156	32	36	7	1	3428.529	3428.529	Glucose-1-phosphate adenylyltransferase
+6284	32	40	7	1	612.3848	612.3848	Ai-2e family transporter
+6784	32	34	9	1	13713.99	13713.99	Enterobactin non-ribosomal peptide synthetase entf
+6809	32	34	7	1	1820.585	1820.585	Galactokinase
+1670	31	34	8	1	712.187	712.187	Glsb/yeaq/ymge family stress response membrane protein
+1744	31	43	8	1	4615.4	4615.4	Efflux transporter outer membrane subunit
+2377	31	33	8	1	3428.529	3428.529	Arylamine n-acetyltransferase
+3693	31	39	9	1	948.8341	948.8341	Type vi secretion system baseplate subunit tssk
+4508	31	48	8	1	883.5764	883.5764	Dimethylsulfoxide reductase subunit b
+6248	31	39	8	1	883.5764	883.5764	Luxr family transcriptional regulator
+156	30	32	9	1	826.2209	826.2209	Nad(p)h-dependent oxidoreductase
+900	30	37	8	1	7973.084	7973.084	Carbamate kinase
+1582	30	31	8	1	883.5764	883.5764	Iron-enterobactin abc transporter permease
+1789	30	33	8	1	883.5764	883.5764	Efflux rnd transporter permease subunit
+2701	30	37	8	1	783.823	783.823	Chemotaxis protein chew
+2804	30	39	7	1	13713.99	13713.99	Ygdi/ygdr family lipoprotein
+2877	30	55	7	1	826.2209	826.2209	Pas domain-containing methyl-accepting chemotaxis protein
+2921	30	31	8	1	4750.184	4750.184	Arac family transcriptional regulator
+3489	30	32	8	1	3428.529	3428.529	Nitrate abc transporter permease
+5179	30	32	7	1	608.4057	608.4057	Sugar phosphatase
+6241	30	31	7	1	783.823	783.823	Ncs2 family permease
+6854	30	44	8	1	1430.8	1430.8	Translesion error-prone dna polymerase v subunit umuc
+1973	29	32	7	1	980.8116	980.8116	Tartrate dehydrogenase
+2098	29	33	9	1	5485.32	5485.32	Abc transporter atp-binding protein
+2263	29	33	6	1	3858.662	3858.662	4-hydroxyphenylpyruvate dioxygenase
+2471	29	32	9	1	766.6232	766.6232	Chemotaxis response regulator chey
+2675	29	30	7	1	3428.529	3428.529	Duf2867 domain-containing protein
+2750	29	31	9	1	883.5764	883.5764	Hth-type transcriptional activator rhas
+2806	29	32	7	1	505.8732	505.8732	Flavin reductase family protein
+2926	29	39	6	1	3428.529	3428.529	Chemotaxis protein chev
+3962	29	31	7	1	736.1451	736.1451	Phosphonate abc transporter, permease protein phne
+10210	29	30	10	1	980.8116	980.8116	Superoxide dismutase family protein
+943	28	33	7	1	13713.99	13713.99	Lema family protein
+1221	28	31	9	1	2015.61	2015.61	Shlb/fhac/hecb family hemolysin secretion/activation protein
+1362	28	34	8	1	735.0619	735.0619	Lactaldehyde reductase
+1454	28	30	8	1	974.177	974.177	Sugar transporter
+1645	28	29	8	1	742.1338	742.1338	Choline dehydrogenase
+2781	28	30	8	1	27872.66	27872.66	Dyp-type peroxidase
+2962	28	31	8	1	908.3955	908.3955	Mbth family nrps accessory protein
+3124	28	29	7	1	1964.835	1964.835	Ethanolamine permease
+6563	28	29	6	1	3428.529	3428.529	Cystathionine beta-lyase
+322	27	29	8	1	883.5764	883.5764	Hydroxypyruvate isomerase
+625	27	30	10	1	2541.412	2541.412	Type i restriction-modification system subunit m
+792	27	29	7	1	883.5764	883.5764	Homoserine o-acetyltransferase
+837	27	31	8	1	28780.5	28780.5	Phage baseplate assembly protein v
+1246	27	29	9	1	2752.447	2752.447	Coa transferase subunit b
+2089	27	30	8	1	980.8116	980.8116	Type ii secretion system atpase gspe
+2341	27	29	9	1	2524.967	2524.967	Efflux rnd transporter periplasmic adaptor subunit
+2430	27	33	9	1	883.5764	883.5764	Lysr family transcriptional regulator
+2521	27	35	8	1	783.823	783.823	Hydrolase
+2809	27	32	8	1	883.5764	883.5764	Tetr/acrr family transcriptional regulator
+3069	27	29	7	1	1430.8	1430.8	Methyl-accepting chemotaxis protein
+3426	27	28	8	1	712.187	712.187	Merr family transcriptional regulator
+3685	27	31	7	1	883.5764	883.5764	Duf1090 domain-containing protein
+4068	27	36	7	1	785.5658	785.5658	Hlyd family secretion protein
+6427	27	30	7	1	1273.964	1273.964	Manganese efflux pump mntp
+7137	27	30	7	1	883.5764	883.5764	Myo-inosose-2 dehydratase
+9410	27	31	9	1	10616.46	10616.46	Phage tail assembly protein
+842	26	30	9	1	883.5764	883.5764	Phage major tail tube protein
+1440	26	31	8	1	3428.529	3428.529	Dmt family transporter
+1846	26	28	9	1	818.2755	818.2755	Tetr/acrr family transcriptional regulator
+2378	26	31	9	1	3428.529	3428.529	Sdr family oxidoreductase
+3059	26	27	6	1	4876.735	4876.735	Plp-dependent aminotransferase family protein
+3240	26	27	7	1	1201.671	1201.671	Betaine-aldehyde dehydrogenase
+3242	26	27	9	1	904.32	904.32	Murr/rpir family transcriptional regulator
+6626	26	28	8	1	27872.66	27872.66	Glycoside hydrolase family 31 protein
+1373	25	26	8	1	13713.99	13713.99	Ybak/prolyl-trna synthetase associated domain-containing protein
+1916	25	26	6	1	3713.33	3713.33	Gfa family protein
+2818	25	26	5	1	3174.797	3174.797	Phosphate abc transporter substrate-binding protein psts family protein
+2914	25	28	9	1	2752.447	2752.447	Isochorismatase family protein
+2969	25	26	5	1	1138.993	1138.993	Phosphate abc transporter permease psta
+3177	25	45	6	1	1202.592	1202.592	Flagellin flic
+4088	25	30	9	1	883.5764	883.5764	Marr family transcriptional regulator
+7038	25	27	7	1	883.5764	883.5764	Type ii secretion system minor pseudopilin gspi
+9417	25	32	9	1	3428.529	3428.529	Gpe family phage tail protein
+10240	25	26	7	1	27872.66	27872.66	M4 family metallopeptidase
+56	49	49	10	0			Argininosuccinate lyase
+57	49	49	10	0			Trna 2-thiouridine(34) synthase mnma
+74	49	49	10	0			Uroporphyrinogen decarboxylase
+76	49	49	10	0			5-formyltetrahydrofolate cyclo-ligase
+85	49	50	10	0			Recombination-associated protein rdgc
+90	49	49	10	0			Carboxy terminal-processing peptidase
+95	49	49	10	0			Bifunctional riboflavin kinase/fad synthetase
+96	49	49	10	0			Isoleucine--trna ligase
+100	49	49	10	0			Peptide chain release factor 3
+106	49	49	10	0			Ribose-5-phosphate isomerase rpia
+108	49	52	10	0			Threonine ammonia-lyase, biosynthetic
+110	49	49	10	0			Rna polymerase sigma factor rpod
+111	49	49	10	0			Dna primase
+123	49	49	10	0			Trna (n6-isopentenyl adenosine(37)-c2)-methylthiotransferase miab
+126	49	49	10	0			Type i methionyl aminopeptidase
+131	49	49	10	0			Ubiquinone biosynthesis regulatory protein kinase ubib
+136	49	49	10	0			Dna utilization protein gntx
+140	49	49	10	0			Acp s-malonyltransferase
+147	49	49	10	0			Dna mismatch repair endonuclease mutl
+149	49	49	10	0			Gtpase hflx
+161	49	49	10	0			Dna repair protein radc
+168	49	49	10	0			Udp-n-acetylmuramate dehydrogenase
+169	49	49	10	0			Bifunctional biotin--
+174	49	49	10	0			Arginine--trna ligase
+175	49	49	10	0			Obg family gtpase cgta
+186	49	49	10	0			Lipid-a-disaccharide synthase
+194	49	49	10	0			Exodeoxyribonuclease v subunit gamma
+198	49	49	10	0			Membrane protein insertase yidc
+214	49	49	10	0			Tyrosine recombinase xerc
+215	49	49	10	0			Glycine--trna ligase subunit beta
+223	49	49	10	0			Fad-dependent 2-octaprenylphenol hydroxylase
+253	49	49	10	0			Metalloprotease tldd
+260	49	49	10	0			Murein biosynthesis integral membrane protein murj
+265	49	49	10	0			Lipoyl(octanoyl) transferase lipb
+267	49	49	10	0			Rod shape-determining protein roda
+278	49	49	10	0			Site-specific tyrosine recombinase xerd
+290	49	49	10	0			Trna uridine-5-carboxymethylaminomethyl(34) synthesis enzyme mnmg
+293	49	49	10	0			Atp-dependent dna helicase recg
+295	49	49	10	0			Proline--trna ligase
+335	49	49	10	0			A/g-specific adenine glycosylase
+338	49	49	10	0			Hslu--hslv peptidase atpase subunit
+345	49	49	10	0			Dna-processing protein dpra
+352	49	49	10	0			Glutamate-1-semialdehyde 2,1-aminomutase
+354	49	49	10	0			Udp-2,3-diacylglucosamine diphosphatase
+363	49	52	10	0			Prolipoprotein diacylglyceryl transferase
+376	49	49	10	0			23s rrna pseudouridine(955/2504/2580) synthase rluc
+377	49	49	10	0			Dihydropteroate synthase
+378	49	49	10	0			Arsc family reductase
+379	49	49	10	0			Succinyl-diaminopimelate desuccinylase
+401	49	52	10	0			Molybdenum cofactor guanylyltransferase moba
+418	49	49	10	0			Trna pseudouridine(13) synthase trud
+427	49	49	10	0			Trigger factor
+436	49	49	10	0			3-deoxy-manno-octulosonate-8-phosphatase kdsc
+437	49	49	10	0			Yggs family pyridoxal phosphate-dependent enzyme
+438	49	49	10	0			Translational gtpase typa
+440	49	49	10	0			16s rrna (guanine(1207)-n(2))-methyltransferase rsmc
+443	49	50	10	0			Imidazole glycerol phosphate synthase subunit hish
+444	49	49	10	0			1-(5-phosphoribosyl)-5-
+454	49	49	10	0			Valine--trna ligase
+460	49	49	10	0			Ribonuclease r
+464	49	49	10	0			Udp-n-acetylmuramoyl-l-alanyl-d-glutamate--2,6-diaminopimelate ligase
+465	49	49	10	0			Udp-n-acetylmuramoyl-tripeptide--d-alanyl-d-alanine ligase
+467	49	49	10	0			Udp-n-acetylmuramoyl-l-alanine--d-glutamate ligase
+468	49	49	10	0			Cell division protein ftsw
+475	49	49	10	0			Dna repair protein recn
+477	49	49	10	0			Ribonuclease ph
+478	49	49	10	0			Yicc family protein
+479	49	49	10	0			Trna-modifying protein ygfz
+483	49	49	10	0			Bifunctional 23s rrna (guanine(2069)-n(7))-methyltransferase rlmk/23s rrna (guanine(2445)-n(2))-methyltransferase rlml
+496	49	49	10	0			Trna pseudouridine(55) synthase trub
+527	49	49	10	0			Aspartate--trna ligase
+529	49	49	10	0			Protease htpx
+533	49	49	10	0			Bifunctional chorismate mutase/prephenate dehydratase
+543	49	49	10	0			Threonine--trna ligase
+547	49	54	10	0			Thioredoxin-disulfide reductase
+550	49	49	10	0			Tetraacyldisaccharide 4'-kinase
+564	49	49	10	0			Peptide chain release factor 1
+568	49	49	10	0			Shikimate dehydrogenase
+569	49	49	10	0			Holliday junction branch migration dna helicase ruvb
+570	49	49	10	0			Holliday junction branch migration protein ruva
+573	49	49	10	0			Thiamine-phosphate kinase
+576	49	49	10	0			Peptidoglycan glycosyltransferase/peptidoglycan dd-transpeptidase mrca
+581	49	49	10	0			Permease-like cell division protein ftsx
+587	49	49	10	0			Phosphoglycerate kinase
+595	49	49	10	0			Dna helicase rep
+604	49	49	10	0			Cysteine--trna ligase
+622	49	49	10	0			Trna 2-thiocytidine(32) synthetase ttca
+623	49	49	10	0			Bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-o-methyltransferase ubig
+626	49	49	10	0			Abc transporter atp-binding protein
+627	49	49	10	0			Trna cyclic n6-threonylcarbamoyladenosine(37) synthase tcda
+628	49	49	10	0			Nucleotide 5'-monophosphate nucleosidase ppnn
+629	49	49	10	0			Leucyl aminopeptidase
+630	49	49	10	0			Lps export abc transporter permease lptf
+632	49	49	10	0			Dna polymerase iii subunit alpha
+633	49	49	10	0			Lipid iv(a) 3-deoxy-d-manno-octulosonic acid transferase
+634	49	49	10	0			Pantetheine-phosphate adenylyltransferase
+635	49	49	10	0			Oligoribonuclease
+642	49	49	10	0			Hydroxymethylbilane synthase
+645	49	49	10	0			Peptidylprolyl isomerase
+649	49	49	10	0			Trna pseudouridine(38-40) synthase trua
+650	49	49	10	0			Dna topoisomerase iv subunit b
+652	49	49	10	0			Dihydroneopterin aldolase
+655	49	49	10	0			Rnfh family protein
+672	49	49	10	0			Protein translocase subunit secd
+679	49	54	10	0			Long-chain-fatty-acid--coa ligase fadd
+682	49	49	10	0			1-deoxy-d-xylulose-5-phosphate reductoisomerase
+684	49	49	10	0			Glutamyl-trna reductase
+689	49	49	10	0			Nadph-dependent 7-cyano-7-deazaguanine reductase quef
+690	49	49	10	0			Anhydro-n-acetylmuramic acid kinase
+703	49	49	10	0			Endonuclease iii
+707	49	49	10	0			Dna repair protein rada
+709	49	50	10	0			Type ii secretion system f family protein
+712	49	49	10	0			Dna polymerase iii subunit delta
+713	49	49	10	0			Leucine--trna ligase
+716	49	49	10	0			Bifunctional indole-3-glycerol-phosphate synthase trpc/phosphoribosylanthranilate isomerase trpf
+721	49	56	10	0			Outer membrane protein assembly factor bama
+722	49	49	10	0			Sigma e protease regulator rsep
+723	49	49	10	0			Phosphatidate cytidylyltransferase
+729	49	49	10	0			Phosphate regulon sensor histidine kinase phor
+730	49	49	10	0			Hydroxyacylglutathione hydrolase
+740	49	49	10	0			Dna topoisomerase iv subunit a
+743	49	49	10	0			Imp dehydrogenase
+744	49	49	10	0			Glutamine-hydrolyzing gmp synthase
+747	49	49	10	0			Bifunctional udp-n-acetylglucosamine diphosphorylase/glucosamine-1-phosphate n-acetyltransferase glmu
+754	49	49	10	0			Replicative dna helicase
+759	49	49	10	0			Phenylalanine--trna ligase subunit beta
+763	49	49	10	0			(d)cmp kinase
+775	49	49	10	0			2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+776	49	49	10	0			2-oxoglutarate dehydrogenase e1 component
+781	49	49	10	0			Rdgb/ham1 family non-canonical purine ntp pyrophosphatase
+797	49	49	10	0			Dna polymerase i
+798	49	49	10	0			Outer membrane lipoprotein chaperone lola
+799	49	49	10	0			Monofunctional biosynthetic peptidoglycan transglycosylase
+806	49	49	10	0			Exodeoxyribonuclease i
+814	49	49	10	0			Acetyl-coa carboxylase, carboxyltransferase subunit beta
+815	49	49	10	0			Bifunctional tetrahydrofolate synthase/dihydrofolate synthase
+817	49	49	10	0			Molybdopterin synthase catalytic subunit moae
+826	49	49	10	0			Trna guanosine(34) transglycosylase tgt
+833	49	49	10	0			Chorismate synthase
+846	49	49	10	0			Bis(5'-nucleosyl)-tetraphosphatase (symmetrical) apah
+850	49	49	10	0			Alanine--trna ligase
+853	49	49	10	0			3-phosphoserine/phosphohydroxythreonine transaminase
+859	49	49	10	0			4-hydroxy-tetrahydrodipicolinate reductase
+873	49	49	10	0			Ribonuclease d
+878	49	49	10	0			Glutamine--trna ligase
+882	49	49	10	0			Dna topoisomerase (atp-hydrolyzing) subunit b
+885	49	49	10	0			Adenylosuccinate lyase
+898	49	49	10	0			Dna repair protein reco
+927	49	49	10	0			Argininosuccinate synthase
+932	49	49	10	0			(2e,6e)-farnesyl diphosphate synthase
+935	49	49	10	0			Replication-associated recombination protein a
+947	49	49	10	0			Bifunctional
+955	49	49	10	0			Abc transporter atp-binding protein
+967	49	49	10	0			Chaperonin groel
+979	49	49	10	0			Outer membrane protein assembly factor bamd
+991	49	49	10	0			Nudix hydrolase
+1003	49	49	10	0			Uracil-dna glycosylase
+1006	49	49	10	0			Cnnm family magnesium/cobalt transport protein corc
+1010	49	49	10	0			Bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase ribd
+1015	49	49	10	0			Phoh family protein
+1016	49	49	10	0			Disulfide bond formation protein dsbb
+1025	49	49	10	0			16s rrna pseudouridine(516) synthase rsua
+1030	49	49	10	0			Bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/imp cyclohydrolase
+1064	49	49	10	0			Exodeoxyribonuclease v subunit alpha
+1071	49	49	10	0			N-acetyl-gamma-glutamyl-phosphate reductase
+1076	49	49	10	0			Primosomal protein n'
+1078	49	49	10	0			7-cyano-7-deazaguanine synthase quec
+1085	49	52	10	0			Protein-disulfide reductase dsbd
+1097	49	49	10	0			2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+1112	49	49	10	0			Phosphoribosylamine--glycine ligase
+1114	49	49	10	0			Nad-dependent dna ligase liga
+1118	49	49	10	0			Dna helicase ii
+1131	49	49	10	0			Trna (adenosine(37)-n6)-dimethylallyltransferase miaa
+1141	49	49	10	0			Phospholipid abc transporter atp-binding protein mlaf
+1142	49	49	10	0			1-deoxy-d-xylulose-5-phosphate synthase
+1145	49	49	10	0			Ribosome biogenesis gtpase der
+1154	49	49	10	0			Trna preq1(34) s-adenosylmethionine ribosyltransferase-isomerase quea
+1155	49	49	10	0			Trna (adenosine(37)-n6)-threonylcarbamoyltransferase complex dimerization subunit type 1 tsab
+1159	49	49	10	0			Translation elongation factor 4
+1160	49	49	10	0			Exodeoxyribonuclease vii large subunit
+1167	49	49	10	0			Lipoprotein-releasing abc transporter atp-binding protein lold
+1168	49	49	10	0			2-octaprenyl-6-methoxyphenyl hydroxylase
+1169	49	49	10	0			4-(cytidine 5'-diphospho)-2-c-methyl-d-erythritol kinase
+1173	49	49	10	0			Lipoyl synthase
+1184	49	54	10	0			Murein dd-endopeptidase mepm
+2207	49	49	10	0			Scp2 sterol-binding domain-containing protein
+2228	49	49	10	0			Murein transglycosylase
+2269	49	49	10	0			Phospholipid-binding protein mlac
+19	48	48	10	0			Gtpase era
+30	48	48	10	0			Ribosome maturation factor rimm
+37	48	49	10	0			Phosphopyruvate hydratase
+53	48	48	10	0			Tetratricopeptide repeat protein
+54	48	48	10	0			Histidine--trna ligase
+55	48	48	10	0			Flavodoxin-dependent (e)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+72	48	48	10	0			Small ribosomal subunit biogenesis gtpase rsga
+75	48	48	10	0			Yeca family protein
+80	48	48	10	0			16s rrna (cytidine(1402)-2'-o)-methyltransferase
+82	48	48	10	0			Yran family protein
+86	48	48	10	0			Pyrroline-5-carboxylate reductase
+97	48	48	10	0			23s rrna (guanosine(2251)-2'-o)-methyltransferase rlmb
+107	48	48	10	0			Phosphoglucosamine mutase
+112	48	54	10	0			Dtdp-glucose 4,6-dehydratase
+117	48	48	10	0			Bifunctional gtp diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase
+130	48	48	10	0			Twin-arginine translocase subunit tatc
+132	48	48	10	0			Bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase ubie
+139	48	48	10	0			Octaprenyl diphosphate synthase
+143	48	48	10	0			Bifunctional dna-formamidopyrimidine glycosylase/dna-(apurinic or apyrimidinic site) lyase
+144	48	48	10	0			D-aminoacyl-trna deacylase
+172	48	53	10	0			Tyrosine--trna ligase
+209	48	50	10	0			Signal peptidase ii
+226	48	48	10	0			Acetyl-coa carboxylase biotin carboxyl carrier protein
+227	48	48	10	0			Acetyl-coa carboxylase biotin carboxylase subunit
+248	48	51	10	0			Class ii fumarate hydratase
+254	48	48	10	0			50s ribosomal protein l11 methyltransferase
+263	48	48	10	0			Impact family protein
+275	48	48	10	0			Dna mismatch repair protein muts
+277	48	48	10	0			Trna lysidine(34) synthetase tils
+284	48	48	10	0			F0f1 atp synthase subunit gamma
+288	48	48	10	0			F0f1 atp synthase subunit a
+289	48	48	10	0			16s rrna (guanine(527)-n(7))-methyltransferase rsmg
+303	48	48	10	0			16s rrna (cytosine(967)-c(5))-methyltransferase rsmb
+308	48	48	10	0			Phosphoribosylformylglycinamidine synthase
+319	48	48	10	0			Glutamine--fructose-6-phosphate transaminase (isomerizing)
+328	48	48	10	0			Slyx family protein
+331	48	48	10	0			Signal recognition particle protein
+349	48	48	10	0			50s ribosomal protein l1
+356	48	48	10	0			Dna polymerase iii subunit delta'
+357	48	48	10	0			Dtmp kinase
+358	48	48	10	0			Endolytic transglycosylase mltg
+373	48	54	10	0			Dna starvation/stationary phase protection protein
+382	48	48	10	0			Molecular chaperone dnaj
+383	48	48	10	0			Molecular chaperone dnak
+384	48	48	10	0			Phospholipid-binding lipoprotein mlaa
+385	48	48	10	0			L-alanyl-gamma-d-glutamyl-meso-diaminopimelate ligase
+389	48	48	10	0			Ketol-acid reductoisomerase
+391	48	48	10	0			Histidinol dehydrogenase
+404	48	48	10	0			Trna (guanosine(46)-n7)-methyltransferase trmb
+413	48	48	10	0			Ribulose-phosphate 3-epimerase
+419	48	48	10	0			Triose-phosphate isomerase
+422	48	48	10	0			Helix-hairpin-helix domain-containing protein
+439	48	48	10	0			Ribosomal protein s18-alanine n-acetyltransferase
+442	48	48	10	0			Bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase hisb
+445	48	48	10	0			Imidazole glycerol phosphate synthase subunit hisf
+448	48	48	10	0			Ribosome-associated heat shock protein hsp15
+462	48	48	10	0			16s rrna (cytosine(1402)-n(4))-methyltransferase rsmh
+470	48	48	10	0			Udp-n-acetylmuramate--l-alanine ligase
+474	48	48	10	0			Udp-3-o-acyl-n-acetylglucosamine deacetylase
+476	48	48	10	0			Glutamate--trna ligase
+484	48	48	10	0			Trna (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-o)-methyltransferase trml
+487	48	48	10	0			Methionine adenosyltransferase
+489	48	48	10	0			Ftsh protease activity modulator hflk
+490	48	48	10	0			Protease modulator hflc
+493	48	48	10	0			Transcription termination factor nusa
+494	48	48	10	0			Translation initiation factor if-2
+507	48	48	10	0			Rna-binding transcriptional accessory protein
+510	48	48	10	0			Nad(p)h nitroreductase
+523	48	48	10	0			Udp-n-acetylglucosamine 1-carboxyvinyltransferase
+528	48	48	10	0			Dna polymerase iv
+541	48	48	10	0			Tatd family hydrolase
+552	48	51	10	0			Atp-dependent protease atp-binding subunit clpx
+563	48	48	10	0			Peptide chain release factor n(5)-glutamine methyltransferase
+566	48	48	10	0			Recombination regulator recx
+567	48	48	10	0			L-threonylcarbamoyladenylate synthase type 1 tsac
+575	48	48	10	0			Dna uptake porin hofq
+578	48	48	10	0			3-dehydroquinate synthase
+584	48	48	10	0			16s rrna (guanine(966)-n(2))-methyltransferase rsmd
+586	48	48	10	0			Phosphoribosylformylglycinamidine cyclo-ligase
+615	48	48	10	0			Lipopolysaccharide transport periplasmic protein lpta
+631	48	48	10	0			Lps export abc transporter permease lptg
+643	48	48	10	0			Uroporphyrinogen-iii synthase
+647	48	48	10	0			Iron-sulfur cluster carrier protein apbc
+653	48	48	10	0			Atp-dependent chaperone clpb
+656	48	48	10	0			Type ii toxin-antitoxin system rata family toxin
+659	48	49	10	0			Molybdate abc transporter substrate-binding protein
+661	48	48	10	0			Abc transporter atp-binding protein
+670	48	49	10	0			Nad(p)/fad-dependent oxidoreductase
+671	48	48	10	0			Protein translocase subunit secf
+674	48	48	10	0			Peptide chain release factor 2
+681	48	48	10	0			Radical sam family heme chaperone hemw
+683	48	48	10	0			Gtp diphosphokinase
+702	48	48	10	0			Multifunctional cca addition/repair protein
+710	48	48	10	0			Dephospho-coa kinase
+714	48	48	10	0			Serine--trna ligase
+718	48	48	10	0			Acyl-acp--udp-n-acetylglucosamine o-acyltransferase
+720	48	48	10	0			Udp-3-o-(3-hydroxymyristoyl)glucosamine n-acyltransferase
+732	48	48	10	0			2-c-methyl-d-erythritol 4-phosphate cytidylyltransferase
+750	48	48	10	0			Atp-dependent zinc metalloprotease ftsh
+752	48	48	10	0			3-phosphoshikimate 1-carboxyvinyltransferase
+771	48	48	10	0			Dna internalization-related competence protein comec/rec2
+778	48	49	10	0			Bifunctional protein-disulfide isomerase/oxidoreductase dsbc
+779	48	48	10	0			Single-stranded-dna-specific exonuclease recj
+787	48	48	10	0			Peptidoglycan editing factor pgef
+801	48	48	10	0			5-(carboxyamino)imidazole ribonucleotide synthase
+804	48	48	10	0			Clpxp protease specificity-enhancing factor
+808	48	48	10	0			Excinuclease abc subunit b
+819	48	50	10	0			Cyclic pyranopterin monophosphate synthase moac
+821	48	48	10	0			Bifunctional uridylyltransferase/uridylyl-removing protein glnd
+824	48	48	10	0			Exopolyphosphatase
+829	48	48	10	0			Metalloprotease pmba
+854	48	48	10	0			Citrate synthase
+856	48	51	10	0			Bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+858	48	48	10	0			23s rrna (cytidine(2498)-2'-o)-methyltransferase rlmm
+877	48	48	10	0			Type i dna topoisomerase
+883	48	48	10	0			4-hydroxybenzoate octaprenyltransferase
+886	48	48	10	0			High frequency lysogenization protein hfld
+887	48	48	10	0			Autotransporter assembly complex protein tama
+924	48	48	10	0			Amidophosphoribosyltransferase
+944	48	48	10	0			Phosphoenolpyruvate carboxylase
+945	48	48	10	0			Lps assembly protein lptd
+946	48	52	10	0			Oxygen-independent coproporphyrinogen iii oxidase
+961	48	48	10	0			Tol-pal system beta propeller repeat protein tolb
+970	48	48	10	0			Preprotein translocase subunit seca
+971	48	48	10	0			Transcriptional regulator bola
+972	48	48	10	0			16s rrna (uracil(1498)-n(3))-methyltransferase
+973	48	48	10	0			Yqge/algh family protein
+978	48	48	10	0			23s rrna pseudouridine(1911/1915/1917) synthase rlud
+980	48	48	10	0			Trna (adenosine(37)-n6)-threonylcarbamoyltransferase complex transferase subunit tsad
+997	48	48	10	0			Mate family efflux transporter
+1000	48	48	10	0			Nucleotide exchange factor grpe
+1001	48	48	10	0			Atp-dependent rna helicase hrpa
+1017	48	48	10	0			Orotate phosphoribosyltransferase
+1018	48	48	10	0			23s rrna (adenine(2030)-n(6))-methyltransferase rlmj
+1023	48	48	10	0			23s rrna (uracil(1939)-c(5))-methyltransferase rlmd
+1026	48	48	10	0			Methionine--trna ligase
+1031	48	48	10	0			4-hydroxy-tetrahydrodipicolinate synthase
+1036	48	48	10	0			Bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase fold
+1045	48	51	10	0			Pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+1046	48	48	10	0			Quinone-dependent dihydroorotate dehydrogenase
+1048	48	48	10	0			Lipid a abc transporter atp-binding protein/permease msba
+1051	48	48	10	0			Excinuclease abc subunit uvra
+1052	48	48	10	0			Transcription-repair coupling factor
+1056	48	48	10	0			Trna dihydrouridine(20/20a) synthase dusa
+1063	48	48	10	0			Ribosome biogenesis gtp-binding protein yiha/ysxc
+1099	48	48	10	0			Guanylate kinase
+1107	48	48	10	0			Energy-dependent translational throttle protein etta
+1108	48	48	10	0			Dna polymerase iii subunit epsilon
+1134	48	48	10	0			Trna uridine-5-carboxymethylaminomethyl(34) synthesis gtpase mnme
+1136	48	48	10	0			Dna-directed rna polymerase subunit beta'
+1137	48	48	10	0			Hsp33 family molecular chaperone hslo
+1143	48	48	10	0			Phosphoribosylglycinamide formyltransferase
+1152	48	48	10	0			Peptide-methionine (r)-s-oxide reductase msrb
+1164	48	48	10	0			Pseudouridine synthase
+1166	48	48	10	0			Ribonuclease hii
+1171	48	48	10	0			Polynucleotide adenylyltransferase pcnb
+1172	48	48	10	0			Chromosomal replication initiator protein dnaa
+1177	48	48	10	0			Ycgl domain-containing protein
+1180	48	48	10	0			Translocation/assembly module tamb
+2321	48	48	10	0			Lipoprotein insertase outer membrane protein lolb
+3872	48	48	10	0			Cytoskeleton protein rodz
+17	47	47	10	0			Signal peptidase i
+32	47	47	10	0			Ribonuclease t
+52	47	47	10	0			Dna polymerase iii subunit beta
+62	47	47	10	0			Ctp synthase (glutamine hydrolyzing)
+92	47	47	10	0			Thymidylate synthase
+102	47	47	10	0			Aminoacyl-trna hydrolase
+105	47	47	10	0			Phosphoglycerate dehydrogenase
+109	47	47	10	0			Peptidylprolyl isomerase
+127	47	47	10	0			7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter
+180	47	47	10	0			Dnaa inactivator hda
+190	47	47	10	0			Diaminopimelate epimerase
+264	47	47	10	0			Methionyl-trna formyltransferase
+334	47	47	10	0			Oxidative damage protection protein
+351	47	47	10	0			Dna-directed rna polymerase subunit beta
+353	47	47	10	0			Glutamate--ammonia ligase
+361	47	47	10	0			Tryptophan--trna ligase
+387	47	48	10	0			Dna-binding transcriptional regulator oxyr
+388	47	47	10	0			Threonine synthase
+395	47	47	10	0			Inner membrane protein ypjd
+402	47	47	10	0			D-hexose-6-phosphate mutarotase
+428	47	47	10	0			Rhodanese-like domain-containing protein
+430	47	47	10	0			Nad(p)h-dependent glycerol-3-phosphate dehydrogenase
+434	47	47	10	0			Rna polymerase sigma factor rpoh
+469	47	47	10	0			Undecaprenyldiphospho-muramoylpentapeptide beta-n-acetylglucosaminyltransferase
+505	47	47	10	0			Bifunctional trna (adenosine(37)-c2)-methyltransferase trmg/ribosomal rna large subunit methyltransferase rlmn
+520	47	47	10	0			Lipid asymmetry maintenance abc transporter permease subunit mlae
+521	47	47	10	0			Outer membrane lipid asymmetry maintenance protein mlad
+536	47	52	10	0			Serine hydroxymethyltransferase
+546	47	47	10	0			Co-chaperone ybbn
+548	47	47	10	0			3-deoxy-manno-octulosonate cytidylyltransferase
+558	47	47	10	0			Anthranilate synthase component 1
+561	47	47	10	0			3-deoxy-8-phosphooctulonate synthase
+565	47	47	10	0			Recombinase reca
+624	47	47	10	0			Dna topoisomerase (atp-hydrolyzing) subunit a
+636	47	47	10	0			Trna (adenosine(37)-n6)-threonylcarbamoyltransferase complex atpase subunit type 1 tsae
+687	47	47	10	0			16s rrna (adenine(1518)-n(6)/adenine(1519)-n(6))-dimethyltransferase rsma
+691	47	47	10	0			50s ribosomal protein l3 n(5)-glutamine methyltransferase
+705	47	47	10	0			Glutamate 5-kinase
+708	47	48	10	0			Type ii secretion system protein gspe
+731	47	47	10	0			2-c-methyl-d-erythritol 2,4-cyclodiphosphate synthase
+735	47	47	10	0			Trna adenosine(34) deaminase tada
+739	47	47	10	0			Polyribonucleotide nucleotidyltransferase
+758	47	47	10	0			Phenylalanine--trna ligase subunit alpha
+773	47	47	10	0			Succinate--coa ligase subunit alpha
+784	47	47	10	0			3-isopropylmalate dehydrogenase
+790	47	47	10	0			Ribonuclease g
+800	47	47	10	0			30s ribosomal protein s6--l-glutamate ligase
+802	47	47	10	0			5-(carboxyamino)imidazole ribonucleotide mutase
+813	47	47	10	0			Nucleoside triphosphate pyrophosphohydrolase
+816	47	47	10	0			Rrna maturation rnase ybey
+863	47	47	10	0			Carbonate dehydratase
+891	47	47	10	0			Translation elongation factor ts
+940	47	47	10	0			Re/si-specific nad(p)(+) transhydrogenase subunit beta
+941	47	47	10	0			Re/si-specific nad(p)(+) transhydrogenase subunit alpha
+942	47	47	10	0			Trna (cytosine(32)/uridine(32)-2'-o)-methyltransferase trmj
+948	47	47	10	0			Ycii family protein
+963	47	47	10	0			Protein tolq
+986	47	47	10	0			Glycerol-3-phosphate 1-o-acyltransferase plsb
+1007	47	47	10	0			6,7-dimethyl-8-ribityllumazine synthase
+1011	47	47	10	0			Endopeptidase la
+1027	47	47	10	0			Nucleoside-diphosphate kinase
+1070	47	47	10	0			Acetylglutamate kinase
+1091	47	47	10	0			Dna replication/repair protein recf
+1095	47	47	10	0			Trna dihydrouridine synthase dusb
+1109	47	47	10	0			50s ribosomal protein l9
+1116	47	47	10	0			Methylenetetrahydrofolate reductase
+1117	47	47	10	0			Adenylate kinase
+1148	47	47	10	0			(2e,6e)-farnesyl-diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase
+15	46	46	10	0			Glycerol kinase glpk
+29	46	46	10	0			Trna (guanosine(37)-n1)-methyltransferase trmd
+63	46	46	10	0			Hth-type transcriptional regulator cysb
+79	46	47	10	0			Sodium/proline symporter putp
+103	46	46	10	0			Redox-regulated atpase ychf
+113	46	46	10	0			Iron-sulfur cluster insertion protein erpa
+115	46	46	10	0			Ribonuclease p protein component
+141	46	46	10	0			3-oxoacyl-acp reductase fabg
+146	46	46	10	0			Glutamate-5-semialdehyde dehydrogenase
+202	46	46	10	0			Acetyl-coa carboxylase carboxyl transferase subunit alpha
+211	46	46	10	0			Succinate dehydrogenase assembly factor 2
+221	46	46	10	0			Yifb family mg chelatase-like aaa atpase
+270	46	46	10	0			Ribosome silencing factor
+286	46	46	10	0			F0f1 atp synthase subunit delta
+291	46	46	10	0			Ychj family protein
+374	46	50	10	0			Ribonuclease e activity regulator rraa
+375	46	47	10	0			Mechanosensitive ion channel
+390	46	46	10	0			Atp phosphoribosyltransferase
+394	46	46	10	0			23s rrna accumulation protein yced
+449	46	47	10	0			Adp compounds hydrolase nude
+480	46	46	10	0			Yfhl family 4fe-4s dicluster ferredoxin
+491	46	46	10	0			Adenylosuccinate synthase
+495	46	46	10	0			30s ribosome-binding factor rbfa
+524	46	46	10	0			Crossover junction endodeoxyribonuclease ruvc
+526	46	46	10	0			Duf72 domain-containing protein
+537	46	46	10	0			Nad(+) kinase
+582	46	46	10	0			Cell division atp-binding protein ftse
+648	46	52	10	0			Gtp cyclohydrolase i fole
+658	46	46	10	0			Molybdate abc transporter permease subunit
+660	46	46	10	0			Abc transporter permease
+665	46	46	10	0			Cdp-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+736	46	46	10	0			Dead/deah box helicase
+749	46	46	10	0			23s rrna (uridine(2552)-2'-o)-methyltransferase rlme
+789	46	46	10	0			Outer membrane protein assembly factor bame
+830	46	46	10	0			Hypoxanthine phosphoribosyltransferase
+889	46	46	10	0			Ribosome recycling factor
+892	46	46	10	0			30s ribosomal protein s2
+897	46	46	10	0			Atp-dependent rna helicase rhlb
+918	46	51	10	0			Single-stranded dna-binding protein
+926	46	46	10	0			Ribonuclease hi
+939	46	46	10	0			Dctp deaminase
+974	46	46	10	0			Holliday junction resolvase ruvx
+995	46	46	10	0			Transcription elongation factor greb
+1054	46	46	10	0			3-isopropylmalate dehydratase large subunit
+1055	46	46	10	0			3-isopropylmalate dehydratase small subunit
+1058	46	46	10	0			Ribonucleoside-diphosphate reductase subunit alpha
+1079	46	46	10	0			Accessory factor ubik family protein
+1119	46	46	10	0			Tigr01777 family oxidoreductase
+1120	46	46	10	0			Yajq family cyclic di-gmp-binding protein
+1130	46	46	10	0			Trna (n6-threonylcarbamoyladenosine(37)-n6)-methyltransferase trmo
+1139	46	46	10	0			Cell division protein ftsq
+1146	46	46	10	0			Thioredoxin-dependent thiol peroxidase
+1181	46	46	10	0			Murein hydrolase activator envc
+1212	46	46	10	0			8-amino-7-oxononanoate synthase
+1213	46	46	10	0			Adenosylmethionine--8-amino-7-oxononanoate transaminase
+1298	46	46	10	0			Carbamoyl-phosphate synthase large subunit
+1316	46	50	10	0			Gnat family n-acetyltransferase
+2073	46	46	10	0			7-carboxy-7-deazaguanine synthase quee
+3504	46	46	10	0			Nad(p)/fad-dependent oxidoreductase
+6762	46	46	10	0			Muropeptide mfs transporter ampg
+7	45	45	10	0			50s ribosomal protein l7/l12
+73	45	45	10	0			Purine nucleoside phosphoramidase
+83	45	45	10	0			Divisome-associated lipoprotein yrap
+162	45	45	10	0			Dutp diphosphatase
+225	45	48	10	0			Type ii 3-dehydroquinate dehydratase
+237	45	45	10	0			50s ribosomal protein l6
+285	45	45	10	0			F0f1 atp synthase subunit alpha
+294	45	45	10	0			Molecular chaperone htpg
+299	45	45	10	0			Pyridoxamine 5'-phosphate oxidase
+346	45	45	10	0			Preprotein translocase subunit sece
+359	45	46	10	0			Inorganic diphosphatase
+429	45	45	10	0			Protein-export chaperone secb
+456	45	45	10	0			Dna polymerase iii subunit chi
+492	45	45	10	0			Ribosome maturation factor rimp
+525	45	45	10	0			Yebc/pmpr family dna-binding transcriptional regulator
+535	45	45	10	0			Beta-ketoacyl-acp synthase i
+583	45	45	10	0			Signal recognition particle-docking protein ftsy
+605	45	49	10	0			Methionine abc transporter atp-binding protein metn
+614	45	45	10	0			Lps export abc transporter atp-binding protein
+651	45	45	10	0			Glycerol-3-phosphate 1-o-acyltransferase plsy
+657	45	45	10	0			Molybdenum abc transporter atp-binding protein modc
+666	45	45	10	0			Excinuclease abc subunit uvrc
+669	45	45	10	0			Thioredoxin trxa
+692	45	52	10	0			Aerobic respiration two-component sensor histidine kinase arcb
+706	45	45	10	0			Type 3 dihydrofolate reductase
+715	45	45	10	0			Ssra-binding protein smpb
+774	45	45	10	0			Adp-forming succinate--coa ligase subunit beta
+828	45	45	10	0			Ribosome-associated protein
+931	45	45	10	0			Exodeoxyribonuclease vii small subunit
+936	45	45	10	0			Rod shape-determining protein mrec
+1028	45	45	10	0			Transcription elongation factor grea
+1042	45	45	10	0			Carboxy-s-adenosyl-l-methionine synthase cmoa
+1059	45	45	10	0			Nad(+) diphosphatase
+1067	45	45	10	0			Cysteine synthase a
+1077	45	45	10	0			Pyridoxal phosphate-dependent aminotransferase
+1088	45	45	10	0			Grx4 family monothiol glutaredoxin
+1190	45	46	10	0			Lactoylglutathione lyase
+1195	45	49	10	0			Dna recombination protein rmuc
+1205	45	45	10	0			Rod shape-determining protein mred
+1206	45	45	10	0			Acylphosphatase
+1273	45	45	10	0			4,5-dopa dioxygenase extradiol
+1282	45	45	10	0			Lipopolysaccharide assembly protein lapb
+1290	45	45	10	0			Ribonucleotide-diphosphate reductase subunit beta
+1297	45	45	10	0			Glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+1321	45	45	10	0			Adp-ribose diphosphatase
+1463	45	45	10	0			Undecaprenyl-diphosphate phosphatase
+1538	45	46	10	0			S-formylglutathione hydrolase
+18	44	44	10	0			Ribonuclease iii
+65	44	44	9	0			5-amino-6-(5-phospho-d-ribitylamino)uracil phosphatase yigb
+93	44	44	9	0			Membrane-bound lytic murein transglycosylase mltf
+124	44	44	10	0			Phosphoenolpyruvate-protein phosphotransferase ptsi
+148	44	44	10	0			Rna chaperone hfq
+154	44	44	9	0			3',5'-cyclic-amp phosphodiesterase
+187	44	44	9	0			Protease sohb
+224	44	44	9	0			16s rrna (guanine(1516)-n(2))-methyltransferase rsmj
+247	44	44	10	0			50s ribosomal protein l3
+258	44	44	9	0			Succinate dehydrogenase flavoprotein subunit
+262	44	47	9	0			Trk system potassium transporter trkh
+268	44	44	10	0			Penicillin-binding protein 2
+279	44	44	9	0			Glutamate racemase
+280	44	44	9	0			Chorismate lyase
+282	44	44	10	0			F0f1 atp synthase subunit epsilon
+283	44	44	10	0			F0f1 atp synthase subunit beta
+287	44	44	10	0			F0f1 atp synthase subunit b
+309	44	44	10	0			Protein-methionine-sulfoxide reductase heme-binding subunit msrq
+310	44	44	10	0			Protein-methionine-sulfoxide reductase catalytic subunit msrp
+336	44	44	9	0			Dna/rna nuclease sfsa
+337	44	44	10	0			Atp-dependent protease subunit hslv
+344	44	44	10	0			Peptide deformylase
+355	44	44	9	0			Metal-dependent hydrolase
+362	44	44	9	0			Phosphoglycolate phosphatase
+372	44	44	9	0			Bifunctional glycosyl transferase/transpeptidase
+392	44	44	9	0			Phosphate acyltransferase plsx
+417	44	44	9	0			5'/3'-nucleotidase sure
+420	44	44	9	0			Glutamate--cysteine ligase
+423	44	44	9	0			Adp-heptose--lps heptosyltransferase rfaf
+463	44	44	10	0			Peptidoglycan glycosyltransferase ftsi
+466	44	44	10	0			Phospho-n-acetylmuramoyl-pentapeptide-transferase
+488	44	44	9	0			Sprt family zinc-dependent metalloprotease
+532	44	44	9	0			Oligopeptidase a
+574	44	44	10	0			Transcription antitermination factor nusb
+579	44	44	9	0			Aspartate-semialdehyde dehydrogenase
+662	44	44	10	0			Adenine phosphoribosyltransferase
+664	44	44	9	0			Ftsh protease modulator ycca
+673	44	44	10	0			Preprotein translocase subunit yajc
+685	44	44	9	0			Bifunctional d-glycero-beta-d-manno-heptose-7-phosphate kinase/d-glycero-beta-d-manno-heptose 1-phosphate adenylyltransferase hlde
+688	44	44	10	0			D-glycero-beta-d-manno-heptose 1,7-bisphosphate 7-phosphatase
+717	44	44	9	0			Bifunctional trna (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase mnmd/fad-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase mnmc
+734	44	44	10	0			Biotin synthase biob
+756	44	44	9	0			Peroxide stress protein yaaa
+764	44	44	10	0			30s ribosomal protein s1
+766	44	44	9	0			Orotidine-5'-phosphate decarboxylase
+768	44	44	9	0			Diacylglycerol kinase
+803	44	44	10	0			Stringent starvation protein a
+805	44	44	10	0			Elongation factor p
+810	44	44	9	0			Nif3-like dinuclear metal center hexameric protein
+818	44	46	9	0			Molybdopterin synthase sulfur carrier subunit
+855	44	44	10	0			Nadp-dependent isocitrate dehydrogenase
+867	44	44	9	0			Xaa-pro aminopeptidase
+875	44	44	9	0			Dethiobiotin synthase
+880	44	44	9	0			30s ribosomal protein s12 methylthiotransferase accessory factor ycao
+881	44	44	9	0			Trna 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase cmob
+890	44	44	10	0			Ump kinase
+938	44	45	10	0			Arginine exporter argo
+958	44	44	9	0			Trna dihydrouridine(16) synthase dusc
+982	44	44	9	0			Atp-dependent dna helicase recq
+989	44	44	9	0			Beta-n-acetylhexosaminidase
+1021	44	44	9	0			Rna polymerase-associated protein rapa
+1035	44	44	9	0			Trna 4-thiouridine(8) synthase thii
+1044	44	45	9	0			Pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase
+1053	44	44	9	0			Aminopeptidase n
+1089	44	44	10	0			Recombination mediator recr
+1111	44	44	10	0			30s ribosomal protein s6
+1113	44	44	9	0			Sulfate transporter cysz
+1121	44	44	9	0			Phosphoserine phosphatase
+1132	44	44	9	0			Bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase coabc
+1138	44	44	9	0			4-hydroxy-3-polyprenylbenzoate decarboxylase
+1147	44	44	9	0			Yqcc family protein
+1153	44	44	9	0			Nucleoid-associated protein yejk
+1178	44	44	9	0			Aspartate/tyrosine/aromatic aminotransferase
+1237	44	44	10	0			Outer membrane protein ompw
+1268	44	48	10	0			Ammonium transporter
+1335	44	44	10	0			Fmn-dependent nadh-azoreductase
+1376	44	44	10	0			Methionine synthase
+1494	44	44	10	0			Phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1531	44	44	9	0			Malonyl-acp o-methyltransferase bioc
+1534	44	44	9	0			Sulfurtransferase complex subunit tusb
+1600	44	44	9	0			Outer membrane channel protein tolc
+1605	44	44	9	0			Phosphomethylpyrimidine synthase thic
+1630	44	45	9	0			Thiazole synthase
+1641	44	48	9	0			Glycine cleavage system aminomethyltransferase gcvt
+1677	44	46	9	0			Aminomethyl-transferring glycine dehydrogenase
+1698	44	44	9	0			Carboxylating nicotinate-nucleotide diphosphorylase
+1723	44	44	9	0			Nicotinate-nucleotide adenylyltransferase
+1724	44	44	9	0			Maf-like protein
+1771	44	45	9	0			3-methyl-2-oxobutanoate hydroxymethyltransferase
+1772	44	44	9	0			Pantoate--beta-alanine ligase
+1780	44	44	9	0			Aspartate-semialdehyde dehydrogenase
+1853	44	47	9	0			Acetyl-coa c-acyltransferase fada
+1857	44	44	9	0			Outer membrane protein assembly factor bamb
+1860	44	44	9	0			Phosphoenolpyruvate synthase
+1865	44	44	9	0			Leucyl/phenylalanyl-trna--protein transferase
+1965	44	44	9	0			Aminodeoxychorismate lyase
+1967	44	44	9	0			Maf-like protein
+1971	44	44	9	0			Murein transglycosylase d
+1989	44	44	9	0			Septum site-determining protein minc
+1995	44	44	9	0			Protein-l-isoaspartate(d-aspartate) o-methyltransferase
+2036	44	44	10	0			Peptidylprolyl isomerase sura
+2037	44	44	9	0			4-hydroxythreonine-4-phosphate dehydrogenase pdxa
+2038	44	44	9	0			Co2+/mg2+ efflux protein apag
+2047	44	44	9	0			Glutathione synthase
+2076	44	46	9	0			Two-component system response regulator glrr
+2156	44	44	9	0			Duf484 domain-containing protein
+2160	44	44	9	0			Oxygen-dependent coproporphyrinogen oxidase
+2171	44	44	9	0			Gamma carbonic anhydrase family protein
+2174	44	44	9	0			Acetate--coa ligase
+2182	44	44	9	0			3'-5' ssdna/rna exonuclease tatd
+2183	44	44	9	0			Atp-dependent helicase hrpb
+2185	44	44	9	0			Cell division protein zape
+2194	44	44	9	0			Nitrogen regulation protein nr(ii)
+2214	44	44	9	0			Biosynthetic arginine decarboxylase
+2268	44	44	9	0			Pimeloyl-acp methyl ester esterase bioh
+2295	44	44	9	0			Ycik family oxidoreductase
+2839	44	44	9	0			Cell division protein cpob
+2981	44	44	9	0			Sigma-e factor regulatory protein rseb
+3152	44	44	9	0			Inorganic triphosphatase
+3323	44	44	9	0			Trna pseudouridine(65) synthase truc
+3403	44	44	9	0			Sdr family oxidoreductase
+3445	44	44	10	0			Sec-independent protein translocase protein tatb
+3677	44	44	9	0			Uroporphyrinogen-iii c-methyltransferase
+61	43	43	10	0			Fe-s biogenesis protein nfua
+166	43	43	9	0			Yheu family protein
+195	43	43	10	0			Bifunctional 3-hydroxydecanoyl-acp dehydratase/trans-2-decenoyl-acp isomerase
+212	43	43	9	0			Trna (uridine(54)-c5)-methyltransferase trma
+216	43	43	10	0			Glycine--trna ligase subunit alpha
+256	43	43	9	0			Succinate dehydrogenase iron-sulfur subunit
+312	43	43	9	0			Arabinose-5-phosphate isomerase kdsd
+329	43	43	9	0			Sulfurtransferase complex subunit tusd
+330	43	43	9	0			Sulfurtransferase complex subunit tusc
+350	43	43	10	0			50s ribosomal protein l10
+406	43	43	9	0			Yggt family protein
+415	43	43	9	0			Dna-3-methyladenine glycosylase i
+472	43	43	10	0			Cell division protein ftsa
+522	43	43	10	0			Bola family iron metabolism protein ibag
+580	43	45	9	0			Hth-type transcriptional regulator metr
+612	43	43	10	0			Rnase adapter rapz
+654	43	43	9	0			Dihydroxy-acid dehydratase
+695	43	43	10	0			Fe-s cluster assembly transcriptional regulator iscr
+696	43	43	9	0			Iscs subfamily cysteine desulfurase
+719	43	43	10	0			3-hydroxyacyl-acp dehydratase fabz
+753	43	43	9	0			Sh3 domain-containing protein
+757	43	43	10	0			Cdf family cation-efflux transporter fief
+762	43	43	9	0			Outer membrane-stress sensor serine endopeptidase degs
+777	43	43	9	0			Zinc abc transporter atp-binding protein znuc
+862	43	43	9	0			Phosphate acetyltransferase
+864	43	43	9	0			Acetolactate synthase 3 large subunit
+866	43	43	9	0			Amino-acid n-acetyltransferase
+933	43	43	9	0			Class ii glutamine amidotransferase
+949	43	43	9	0			Acyl-coa thioester hydrolase ycia
+959	43	43	9	0			Co-chaperone djla
+964	43	43	10	0			Tol-pal system-associated acyl-coa thioesterase
+969	43	43	10	0			5-methyltetrahydropteroyltriglutamate--homocysteine s-methyltransferase
+990	43	43	9	0			Uracil permease
+1019	43	43	9	0			1,6-anhydro-n-acetylmuramyl-l-alanine amidase ampd
+1081	43	43	9	0			Arginine abc transporter permease artm
+1092	43	43	9	0			3-deoxy-7-phosphoheptulonate synthase
+1094	43	43	9	0			Phosphohistidine phosphatase sixa
+1123	43	43	10	0			Ferric iron uptake transcriptional regulator
+1162	43	43	10	0			Spfh/band 7/phb domain protein
+1163	43	43	9	0			Apolipoprotein n-acyltransferase
+1182	43	43	9	0			Endonuclease smrb
+1239	43	43	9	0			Dna polymerase iii subunit gamma/tau
+1387	43	43	10	0			23s rrna pseudouridine(2605) synthase rlub
+1615	43	43	10	0			Cell division protein zapa
+1642	43	43	9	0			Glycine cleavage system protein gcvh
+1648	43	43	9	0			Acyl-coa dehydrogenase fade
+1657	43	43	9	0			Type iv pilus twitching motility protein pilt
+1662	43	43	9	0			Rna polymerase factor sigma-54
+1767	43	43	9	0			Nicotinamide-nucleotide amidase
+1774	43	43	9	0			Bifunctional adp-dependent nad(p)h-hydrate dehydratase/nad(p)h-hydrate epimerase
+1920	43	43	9	0			Ydiu family protein
+1951	43	43	9	0			Trna glutamyl-q(34) synthetase gluqrs
+1956	43	43	9	0			Deoxyribodipyrimidine photo-lyase
+1975	43	43	9	0			Polyphosphate kinase 1
+2014	43	43	9	0			Zinc uptake transcriptional repressor zur
+2086	43	43	10	0			Cell division protein ftsl
+2155	43	43	9	0			Oligopeptidase b
+2159	43	43	9	0			Protoheme ix biogenesis protein hemy
+2179	43	43	9	0			Pyridoxine 5'-phosphate synthase
+2197	43	43	9	0			Hydrolase
+2296	43	44	9	0			Gamma-glutamyltransferase
+2380	43	43	9	0			Multifunctional acyl-coa thioesterase i/protease i/lysophospholipase l1
+2382	43	43	9	0			Abc transporter permease
+2416	43	43	9	0			Phosphoadenylyl-sulfate reductase
+6057	43	43	9	0			Malate dehydrogenase
+121	42	42	9	0			Aminoimidazole riboside kinase
+196	42	42	9	0			Lon protease family protein
+200	42	44	9	0			1-acylglycerol-3-phosphate o-acyltransferase
+230	42	42	10	0			30s ribosomal protein s16
+238	42	42	10	0			30s ribosomal protein s8
+241	42	42	10	0			50s ribosomal protein l24
+269	42	42	10	0			23s rrna (pseudouridine(1915)-n(3))-methyltransferase rlmh
+304	42	42	9	0			Trk system potassium transporter trka
+347	42	42	10	0			Transcription termination/antitermination protein nusg
+365	42	42	10	0			Rna pyrophosphohydrolase
+452	42	47	9	0			Glucose-6-phosphate dehydrogenase
+545	42	42	9	0			Thiosulfate sulfurtransferase glpe
+553	42	42	10	0			Atp-dependent clp endopeptidase proteolytic subunit clpp
+613	42	42	10	0			Pts iia-like nitrogen regulatory protein ptsn
+663	42	42	9	0			Sulfurtransferase tuse
+675	42	42	10	0			2-isopropylmalate synthase
+677	42	42	10	0			Rna polymerase sigma factor rpoe
+680	42	42	10	0			Uracil phosphoribosyltransferase
+704	42	42	9	0			Sulfite exporter taue/safe family protein
+711	42	42	9	0			Dna gyrase inhibitor yacg
+733	42	42	10	0			Cell division protein ftsb
+767	42	42	9	0			Stress response translation initiation inhibitor ycih
+782	42	42	9	0			Ycgn family cysteine cluster protein
+783	42	44	9	0			Transcriptional regulator tyrr
+807	42	42	9	0			Php domain-containing protein
+857	42	42	9	0			Duf423 domain-containing protein
+925	42	42	10	0			Cvpa family protein
+928	42	42	10	0			Ribosome assembly rna-binding protein yhby
+1061	42	42	9	0			Fxsa family protein
+1062	42	42	9	0			Sulfurtransferase tusa
+1087	42	42	9	0			Branched-chain amino acid transaminase
+1161	42	42	10	0			Translation initiation factor if-3
+1302	42	42	9	0			Serine-type d-ala-d-ala carboxypeptidase
+1317	42	42	9	0			Class 1 fructose-bisphosphatase
+1334	42	42	10	0			Catalase/peroxidase hpi
+1592	42	42	9	0			Gaf domain-containing protein
+1668	42	45	9	0			Sulfate adenylyltransferase subunit cysn
+1805	42	42	9	0			Nadh-quinone oxidoreductase subunit nuof
+1810	42	42	9	0			Nadh-quinone oxidoreductase subunit m
+1821	42	42	9	0			Arsenate reductase (glutaredoxin)
+1861	42	42	9	0			Kinase/pyrophosphorylase
+1866	42	42	9	0			Atp-dependent clp protease atp-binding subunit clpa
+1901	42	43	9	0			Eama family transporter
+1966	42	42	9	0			Beta-ketoacyl-acp synthase ii
+1983	42	42	9	0			Acyl-coa thioesterase ii
+1990	42	42	9	0			Septum site-determining protein mind
+2193	42	42	9	0			Nitrogen regulation protein nr(i)
+2238	42	42	9	0			Yaeq family protein
+2279	42	42	9	0			Trna epoxyqueuosine(34) reductase queg
+2516	42	42	9	0			Yaii/yqxd family protein
+2620	42	42	9	0			Ykgj family cysteine cluster protein
+2767	42	42	9	0			Giy-yig nuclease family protein
+6227	42	42	10	0			Deda family protein
+6622	42	42	9	0			Glycosyltransferase family 2 protein
+6657	42	42	9	0			6-phosphofructokinase
+84	41	41	10	0			Acetylornithine deacetylase
+173	41	41	9	0			Glycine zipper 2tm domain-containing protein
+234	41	41	10	0			Preprotein translocase subunit secy
+236	41	41	10	0			50s ribosomal protein l18
+244	41	41	10	0			50s ribosomal protein l2
+302	41	42	9	0			Universal stress protein
+325	41	43	10	0			2-hydroxy-3-oxopropionate reductase
+327	41	41	9	0			30s ribosomal protein s12 methylthiotransferase rimo
+549	41	41	9	0			Trm112 family protein
+577	41	41	10	0			Shikimate kinase arok
+738	41	42	9	0			Atp-dependent rna helicase rhle
+755	41	41	10	0			Transcriptional regulator nrdr
+793	41	41	10	0			Formyltetrahydrofolate deformylase
+832	41	41	9	0			Preprotein translocase subunit secg
+894	41	48	10	0			Iron abc transporter permease
+960	41	41	10	0			Peptidoglycan-associated lipoprotein pal
+1105	41	41	10	0			Electron transport complex subunit rsxb
+1144	41	41	9	0			Trna 5-hydroxyuridine modification protein yegq
+1415	41	41	10	0			Esterase
+1461	41	41	9	0			Formate-dependent phosphoribosylglycinamide formyltransferase
+1483	41	41	9	0			Acp phosphodiesterase
+1659	41	42	9	0			Aspartate carbamoyltransferase
+1712	41	41	9	0			Mgmt family protein
+1796	41	41	9	0			Succinate dehydrogenase cytochrome b556 subunit
+1927	41	41	9	0			Nad-dependent protein deacylase
+1991	41	41	9	0			Cell division topological specificity factor mine
+2011	41	42	9	0			Imidazolonepropionase
+2056	41	41	9	0			Atp-dependent rna helicase dbpa
+2211	41	41	9	0			Isocitrate lyase
+2307	41	41	9	0			Plp-dependent aminotransferase family protein
+2616	41	41	9	0			Dgsa anti-repressor mtfa
+2670	41	43	9	0			N-acetylmuramoyl-l-alanine amidase
+2891	41	41	9	0			Coa pyrophosphatase
+3133	41	41	9	0			Vitamin b12 abc transporter substrate-binding protein btuf
+3272	41	42	9	0			Bifunctional nicotinamidase/pyrazinamidase
+4482	41	41	9	0			Xaa-pro dipeptidase
+42	40	40	10	0			50s ribosomal protein l13
+87	40	40	9	0			3-phenylpropionate mfs transporter
+199	40	40	9	0			Thiol peroxidase
+235	40	40	10	0			50s ribosomal protein l15
+240	40	40	10	0			50s ribosomal protein l5
+246	40	40	10	0			50s ribosomal protein l4
+412	40	40	9	0			Type b 50s ribosomal protein l31
+458	40	40	10	0			Zinc abc transporter substrate-binding protein znua
+461	40	40	9	0			Division/cell wall cluster transcriptional repressor mraz
+499	40	46	9	0			Gluconokinase
+508	40	40	10	0			Sdr family oxidoreductase
+556	40	40	9	0			Anthranilate phosphoribosyltransferase
+559	40	40	9	0			Threonylcarbamoyl-amp synthase
+728	40	40	10	0			Phosphate regulon transcriptional regulator phob
+765	40	40	10	0			Integration host factor subunit beta
+965	40	40	9	0			Cytochrome d ubiquinol oxidase subunit ii
+966	40	40	9	0			Cytochrome ubiquinol oxidase subunit i
+1002	40	40	9	0			Nfed family protein
+1020	40	40	9	0			Bifunctional trna pseudouridine(32) synthase/23s rrna pseudouridine(746) synthase rlua
+1034	40	40	9	0			Ribosome hibernation promoting factor
+1066	40	40	10	0			Superoxide dismutase
+1072	40	40	9	0			Deoxyribose-phosphate aldolase
+1090	40	40	10	0			Ybab/ebfc family nucleoid-associated protein
+1101	40	40	9	0			Electron transport complex subunit rsxg
+1102	40	40	9	0			Electron transport complex subunit rsxd
+1284	40	40	9	0			Asparaginase
+1337	40	40	9	0			Large-conductance mechanosensitive channel protein mscl
+1597	40	40	9	0			Bacterioferritin
+1631	40	40	9	0			Sulfur carrier protein this
+1756	40	40	9	0			Phosphate signaling complex protein phou
+1803	40	40	9	0			Nadh-quinone oxidoreductase subunit c/d
+1809	40	40	9	0			Nadh-quinone oxidoreductase subunit l
+1811	40	40	9	0			Nadh-quinone oxidoreductase subunit nuon
+1919	40	40	9	0			Rna 2',3'-cyclic phosphodiesterase
+2017	40	40	9	0			Nadph-dependent 2,4-dienoyl-coa reductase
+2082	40	40	9	0			A24 family peptidase
+2123	40	40	9	0			Two-component system sensor histidine kinase phoq
+2878	40	40	9	0			Two-component system response regulator rsta
+3043	40	40	9	0			Glycerol-3-phosphate dehydrogenase
+3845	40	40	9	0			Bifunctional aspartate kinase/homoserine dehydrogenase i
+60	39	44	9	0			Nadh oxidoreductase
+138	39	39	10	0			50s ribosomal protein l27
+145	39	39	8	0			Virulence factor brkb family protein
+261	39	39	10	0			30s ribosomal protein s20
+272	39	39	8	0			Pyruvate dehydrogenase complex transcriptional repressor pdhr
+297	39	39	8	0			Flavodoxin
+343	39	39	9	0			Adp-glyceromanno-heptose 6-epimerase
+348	39	39	10	0			50s ribosomal protein l11
+368	39	43	10	0			1,4-dihydroxy-2-naphthoyl-coa synthase
+399	39	39	8	0			Atp-dependent rna helicase srmb
+416	39	39	9	0			Murein hydrolase activator nlpd
+431	39	39	10	0			Serine o-acetyltransferase
+459	39	39	9	0			Zinc ribbon domain-containing protein yjdm
+534	39	39	8	0			Class i adenylate cyclase
+555	39	40	10	0			Glutathione transferase
+562	39	39	9	0			Invasion regulator sirb1
+592	39	39	9	0			Putrescine abc transporter permease poth
+644	39	39	10	0			30s ribosomal protein s15
+834	39	39	8	0			Mechanosensitive channel msck
+835	39	40	9	0			Deda family protein
+865	39	39	9	0			Acetolactate synthase small subunit
+934	39	39	9	0			Zinc abc transporter permease subunit znub
+1049	39	39	8	0			Atp-dependent dna helicase
+1050	39	39	8	0			Atp-dependent dna helicase ding
+1176	39	39	9	0			Ribonuclease e
+1272	39	39	8	0			Dna topoisomerase iii
+1307	39	39	9	0			Tigr00645 family protein
+1318	39	39	9	0			Yccs family putative transporter
+1352	39	39	10	0			Voc family protein
+1446	39	39	9	0			Transcriptional regulator slya
+1609	39	39	8	0			Thiamine phosphate synthase
+1661	39	39	8	0			Phosphoenolpyruvate--protein phosphotransferase
+1769	39	39	8	0			Glycine cleavage system transcriptional repressor
+1862	39	39	9	0			Duf1249 domain-containing protein
+1945	39	40	9	0			Histidine ammonia-lyase
+1998	39	39	9	0			D-amino acid dehydrogenase
+2124	39	43	9	0			Two-component system response regulator phop
+2189	39	39	8	0			23s rrna (cytosine(1962)-c(5))-methyltransferase rlmi
+2208	39	39	8	0			Aminoacyl-trna hydrolase
+2727	39	40	8	0			Nad(p)h-flavin reductase
+2740	39	39	8	0			Esterase yqia
+2782	39	39	9	0			Cysteine synthase cysm
+2823	39	39	8	0			2-dehydropantoate 2-reductase
+2824	39	39	8	0			Mfs transporter
+2828	39	39	8	0			Cys-trna(pro)/cys-trna(cys) deacylase ybak
+2840	39	39	8	0			Quinolinate synthase nada
+2888	39	39	8	0			Spovr family protein
+2895	39	39	8	0			Trna uridine 5-oxyacetic acid(34) methyltransferase cmom
+2904	39	39	8	0			Prka family serine protein kinase
+2954	39	40	8	0			Histidine abc transporter permease hisq
+2956	39	39	8	0			4-phosphoerythronate dehydrogenase pdxb
+2982	39	39	8	0			Anti-sigma-e factor rsea
+2985	39	42	9	0			Sulfate abc transporter permease subunit cysw
+2988	39	39	8	0			Class i sam-dependent methyltransferase
+2999	39	39	8	0			Dtw domain-containing protein
+3042	39	39	9	0			Rhomboid family intramembrane serine protease glpg
+3070	39	39	8	0			Serine/threonine protein kinase
+3085	39	39	8	0			Yeah/yhbh family protein
+3087	39	39	8	0			L-aspartate oxidase
+3149	39	39	9	0			Two-component system sensor histidine kinase kdpd
+3525	39	39	8	0			Endolytic peptidoglycan transglycosylase rlpa
+4705	39	39	8	0			Lps assembly lipoprotein lpte
+6079	39	39	8	0			5'-methylthioadenosine/s-adenosylhomocysteine nucleosidase
+6292	39	39	9	0			Methylglyoxal synthase
+6300	39	44	8	0			Aminopeptidase pepb
+6353	39	39	8	0			Elongation factor p--(r)-beta-lysine ligase
+6370	39	39	9	0			Yjag family protein
+6409	39	39	8	0			Ycjf family protein
+6546	39	39	8	0			Pitrilysin
+6798	39	39	9	0			N-acetylglucosamine-6-phosphate deacetylase
+6822	39	39	8	0			Cysteine/glutathione abc transporter atp-binding protein/permease cydc
+6823	39	39	8	0			Cysteine/glutathione abc transporter permease/atp-binding protein cydd
+6858	39	39	8	0			Signal peptide peptidase sppa
+6911	39	39	8	0			Ycjx family protein
+6916	39	39	8	0			Gnat family n-acetyltransferase
+8	38	38	10	0			30s ribosomal protein s5
+99	38	38	9	0			Terc family protein
+101	38	43	8	0			D-alanyl-d-alanine endopeptidase
+114	38	39	10	0			Membrane protein insertion efficiency factor yidd
+185	38	38	9	0			Abc transporter atp-binding protein
+229	38	38	10	0			50s ribosomal protein l19
+233	38	38	10	0			30s ribosomal protein s4
+315	38	38	9	0			Ribose abc transporter atp-binding protein rbsa
+386	38	38	9	0			Hth-type transcriptional repressor fabr
+446	38	38	8	0			Bifunctional phosphoribosyl-amp cyclohydrolase/phosphoribosyl-atp diphosphatase hisie
+572	38	38	8	0			Phosphatidylglycerophosphatase a
+590	38	38	10	0			Putrescine abc transporter permease poti
+646	38	38	9	0			Yche family naat transporter
+725	38	38	9	0			Phosphate abc transporter permease pstc
+726	38	38	9	0			Phosphate abc transporter permease psta
+884	38	38	9	0			Deor/glpr family transcriptional regulator
+893	38	40	9	0			Iron abc transporter substrate-binding protein
+930	38	38	8	0			Ycbx family protein
+950	38	38	8	0			Septation protein a
+1012	38	38	9	0			Hth-type transcriptional activator ilvy
+1083	38	38	8	0			Arginine abc transporter permease artq
+1165	38	38	8	0			Pqib family protein
+1259	38	38	9	0			Pts fructose transporter subunit iibc
+1431	38	38	8	0			Peptidoglycan meso-diaminopimelic acid protein amidase
+1596	38	38	9	0			Bacterioferritin-associated ferredoxin
+1652	38	38	9	0			Hemolysin iii family protein
+1804	38	38	9	0			Nadh-quinone oxidoreductase subunit nuoe
+1843	38	38	9	0			Uvry/sira/gaca family response regulator transcription factor
+1912	38	38	8	0			Pyridoxal phosphate-dependent aminotransferase
+1963	38	38	8	0			Fatty acid oxidation complex subunit alpha fadb
+1986	38	38	9	0			Dna-3-methyladenine glycosylase 2
+2288	38	38	8	0			Two-component sensor histidine kinase bara
+2346	38	38	9	0			Nadh-quinone oxidoreductase subunit nuog
+2360	38	38	9	0			Fad-dependent oxidoreductase
+2392	38	38	8	0			Acetolactate synthase 2 catalytic subunit
+2399	38	38	9	0			Thioredoxin trxc
+2550	38	38	8	0			Mfs transporter
+2609	38	38	9	0			Glutamate synthase large subunit
+2864	38	38	8	0			Nicotinate phosphoribosyltransferase
+2874	38	38	9	0			Duf1289 domain-containing protein
+2950	38	38	8	0			Abc-f family atpase
+2979	38	38	8	0			No-inducible flavohemoprotein
+3040	38	38	8	0			Osmc family protein
+3062	38	41	8	0			High-affinity branched-chain amino acid abc transporter permease livm
+3098	38	38	8	0			Nudix hydrolase yfcd
+3173	38	39	9	0			Putrescine abc transporter atp-binding subunit potg
+3175	38	38	8	0			Dna polymerase ii
+4415	38	38	9	0			Fkbp-type peptidyl-prolyl cis-trans isomerase
+5861	38	38	9	0			Purine-nucleoside phosphorylase
+6010	38	38	8	0			Sugar/pyridoxal phosphate phosphatase yigl
+6124	38	38	8	0			Asparagine--trna ligase
+6334	38	38	8	0			Homoserine kinase
+6411	38	38	8	0			Exoribonuclease ii
+6416	38	38	8	0			Thymidine kinase
+6692	38	38	8	0			Ef-p beta-lysylation protein epmb
+6752	38	38	8	0			Aminoacyl-histidine dipeptidase
+163	37	37	9	0			Nucleoid occlusion factor slma
+396	37	37	8	0			Hlyc/corc family transporter
+405	37	37	8	0			Yggl family protein
+473	37	37	10	0			Cell division protein ftsz
+498	37	37	9	0			Gluconate operon transcriptional repressor gntr
+811	37	37	8	0			Envelope stress response regulator transcription factor cpxr
+822	37	37	10	0			30s ribosomal protein s9
+968	37	37	10	0			Co-chaperone groes
+1068	37	37	10	0			Transcription termination factor rho
+1104	37	37	9	0			Electron transport complex subunit rsxc
+1199	37	37	9	0			2-hydroxyacid dehydrogenase
+1372	37	37	8	0			Duf1043 family protein
+1378	37	38	10	0			Udp-n-acetyl-d-mannosamine dehydrogenase
+1381	37	37	9	0			1-phosphofructokinase
+1464	37	41	9	0			Glutathione s-transferase
+1482	37	37	9	0			Heme abc transporter atp-binding protein
+1539	37	37	9	0			Quinone oxidoreductase
+1588	37	37	9	0			Atp-dependent clp protease adapter clps
+1660	37	37	8	0			Magnesium transporter
+1807	37	37	9	0			Nadh-quinone oxidoreductase subunit j
+1959	37	37	9	0			Isovaleryl-coa dehydrogenase
+1999	37	38	8	0			Cation symporter
+2192	37	37	8	0			Acetyl-coa c-acyltransferase fadi
+2347	37	37	9	0			Nadh-quinone oxidoreductase subunit nuoh
+2374	37	37	9	0			Lysr family transcriptional regulator argp
+2428	37	37	8	0			Zinc-binding alcohol dehydrogenase family protein
+2486	37	40	9	0			Flagellar hook-basal body complex protein flie
+2588	37	37	9	0			Cytochrome o ubiquinol oxidase subunit iii
+2714	37	39	9	0			Glyoxylate/hydroxypyruvate reductase ghrb
+2805	37	37	8	0			Molecular chaperone skp
+2817	37	37	8	0			Exonuclease subunit sbcd
+2834	37	37	8	0			Potassium-transporting atpase subunit kdpc
+2835	37	37	8	0			Potassium-transporting atpase subunit kdpa
+2837	37	37	8	0			Succinate dehydrogenase membrane anchor subunit
+2875	37	37	8	0			Gtp cyclohydrolase ii
+2903	37	37	8	0			Duf1315 family protein
+2951	37	40	9	0			Transcriptional regulator lrha
+2986	37	40	9	0			Sulfate abc transporter permease subunit cyst
+2987	37	38	9	0			Sulfate abc transporter substrate-binding protein
+3063	37	37	8	0			High-affinity branched-chain amino acid abc transporter permease livh
+3148	37	37	8	0			Potassium-transporting atpase subunit kdpb
+3169	37	37	8	0			Microcin c abc transporter permease yejb
+3188	37	41	8	0			Glycine betaine/l-proline abc transporter permease prow
+3257	37	37	8	0			Rsd/algq family anti-sigma factor
+3434	37	37	8	0			Fkbp-type peptidyl-prolyl cis-trans isomerase
+3828	37	37	9	0			Ribosome alternative rescue factor arfa
+5866	37	37	8	0			2,3,4,5-tetrahydropyridine-2,6-dicarboxylate n-succinyltransferase
+5989	37	37	8	0			Deoxyribonuclease iv
+6214	37	37	10	0			Aspartate/glutamate racemase family protein
+6772	37	37	9	0			Bifunctional udp-sugar hydrolase/5'-nucleotidase usha
+6840	37	37	9	0			Homocysteine s-methyltransferase family protein
+21	36	36	9	0			50s ribosomal protein l31
+45	36	36	9	0			50s ribosomal protein l21
+120	36	36	8	0			Catabolite repressor/activator
+142	36	37	8	0			Branched-chain amino acid transport system ii carrier protein
+231	36	36	10	0			50s ribosomal protein l17
+239	36	36	10	0			30s ribosomal protein s14
+242	36	36	10	0			30s ribosomal protein s17
+296	36	36	8	0			Fmn-binding protein mioc
+313	36	36	8	0			Slc13 family permease
+393	36	36	10	0			50s ribosomal protein l32
+571	36	42	9	0			Lyse family transporter
+667	36	36	8	0			Uracil-xanthine permease family protein
+831	36	48	10	0			Alpa family transcriptional regulator
+876	36	36	8	0			Ai-2e family transporter
+1047	36	36	10	0			Ribose-phosphate pyrophosphokinase
+1100	36	36	9	0			Electron transport complex subunit e
+1128	36	37	8	0			Microcin c abc transporter atp-binding protein yejf
+1183	36	36	8	0			Dna endonuclease smra
+1186	36	38	9	0			Envelope stress sensor histidine kinase cpxa
+1296	36	36	9	0			Prepilin peptidase-dependent pilin
+1303	36	40	8	0			Metq/nlpa family lipoprotein
+1308	36	41	10	0			Mbl fold metallo-hydrolase
+1447	36	36	10	0			Arabinose operon transcriptional regulator arac
+1867	36	36	8	0			Aconitate hydratase acna
+2139	36	37	9	0			Drug/metabolite exporter yeda
+2475	36	36	9	0			Yqjd family protein
+2682	36	39	9	0			Abc transporter substrate-binding protein
+2905	36	36	8	0			Duf480 domain-containing protein
+2913	36	36	8	0			Microcin c abc transporter permease
+2941	36	36	9	0			Flagellar hook assembly protein flgd
+3034	36	36	9	0			Bifunctional isocitrate dehydrogenase kinase/phosphatase
+3045	36	37	9	0			Homoserine/homoserine lactone efflux protein
+3046	36	40	8	0			Thioesterase family protein
+3155	36	36	8	0			Inorganic phosphate transporter pita
+3704	36	36	8	0			Thiamine abc transporter substrate binding subunit
+3730	36	36	8	0			Molecular chaperone
+4016	36	36	9	0			Oligopeptide abc transporter permease oppc
+4192	36	36	9	0			8-oxo-dgtp diphosphatase mutt
+5992	36	36	8	0			Outer membrane permeability protein sana
+6188	36	36	9	0			Cytochrome o ubiquinol oxidase subunit ii
+6191	36	36	8	0			Cell division protein zapb
+6218	36	36	8	0			Murein transglycosylase a
+6439	36	36	8	0			Duf808 domain-containing protein
+6472	36	36	8	0			Lps biosynthesis-modulating metalloenzyme yejm
+6742	36	36	8	0			Thiamine abc transporter atp-binding protein thiq
+6743	36	36	8	0			Thiamine/thiamine pyrophosphate abc transporter permease thip
+6890	36	37	9	0			Aspartate aminotransferase family protein
+5	35	35	10	0			30s ribosomal protein s13
+46	35	35	9	0			50s ribosomal protein l22
+159	35	35	8	0			Diaminobutyrate--2-oxoglutarate transaminase
+222	35	35	8	0			2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+292	35	35	9	0			Tellurite resistance terb family protein
+411	35	38	9	0			Amino acid abc transporter substrate-binding protein
+678	35	35	9	0			Soxr-reducing system protein rsec
+770	35	35	9	0			Serine/threonine transporter sstt
+992	35	35	8	0			Selenide, water dikinase seld
+1151	35	35	9	0			Dnaa initiator-associating protein diaa
+1217	35	35	9	0			Iron abc transporter permease
+1232	35	35	8	0			Aspartate ammonia-lyase
+1351	35	35	8	0			Cytochrome b
+1384	35	35	9	0			Abc transporter substrate-binding protein
+1460	35	35	8	0			Ycei family protein
+1473	35	35	9	0			Carboxylate/amino acid/amine transporter
+1527	35	41	10	0			Polysaccharide export protein
+1567	35	35	8	0			Dead/deah box helicase
+1598	35	35	8	0			Lysophospholipid transporter lplt
+1709	35	41	8	0			Eal domain-containing protein
+1801	35	35	9	0			Nadh-quinone oxidoreductase subunit a
+2213	35	35	8	0			Polyamine aminopropyltransferase
+2441	35	35	8	0			Duf2065 domain-containing protein
+2492	35	41	9	0			Flagellar biosynthesis protein flha
+2511	35	42	9	0			Marr family transcriptional regulator
+2762	35	35	8	0			U32 family peptidase
+2764	35	35	8	0			Scp2 domain-containing protein
+2803	35	35	8	0			Nadp(h)-dependent aldo-keto reductase
+2827	35	35	8	0			Trna-(ms
+2831	35	35	9	0			Duf493 family protein ybed
+2901	35	36	8	0			Lysr family transcriptional regulator
+2902	35	35	8	0			Sodium symporter
+3003	35	35	8	0			Rna polymerase sigma factor rpos
+3010	35	35	8	0			Duf3820 family protein
+3026	35	35	8	0			Erythrose-4-phosphate dehydrogenase
+3041	35	35	8	0			Gmp/imp nucleotidase
+3060	35	35	8	0			High-affinity branched-chain amino acid abc transporter atp-binding protein livf
+3084	35	35	8	0			23s rrna (guanine(745)-n(1))-methyltransferase
+3112	35	35	8	0			Zinc transporter zntb
+3137	35	37	9	0			Yeih family protein
+3147	35	35	9	0			Pepsy domain-containing protein
+3170	35	40	8	0			Adenosine deaminase
+3572	35	35	8	0			Abc transporter atp-binding protein
+3676	35	35	8	0			Cystathionine gamma-synthase
+4413	35	35	8	0			Lysoplasmalogenase
+6105	35	35	8	0			Ribonuclease i
+6130	35	35	8	0			Ribose abc transporter permease
+6153	35	35	8	0			Adenine-specific dna-methyltransferase
+6338	35	35	8	0			Assimilatory sulfite reductase (nadph) hemoprotein subunit
+6643	35	35	8	0			D-ribose pyranase
+6802	35	35	8	0			Phosphoglucomutase (alpha-d-glucose-1,6-bisphosphate-dependent)
+3	34	34	10	0			50s ribosomal protein l20
+11	34	34	10	0			50s ribosomal protein l29
+118	34	34	10	0			Dna-directed rna polymerase subunit omega
+179	34	34	7	0			Heme exporter protein ccmb
+207	34	34	8	0			Molybdopterin adenylyltransferase
+245	34	34	9	0			50s ribosomal protein l23
+317	34	35	8	0			Glycerol-3-phosphate transporter
+424	34	34	7	0			Lipopolysaccharide heptosyltransferase rfac
+425	34	34	10	0			30s ribosomal protein s7
+506	34	34	7	0			Type iv pilus biogenesis/stability protein pilw
+512	34	35	8	0			Mhs family mfs transporter
+637	34	34	8	0			N-acetylmuramoyl-l-alanine amidase amib
+638	34	35	7	0			N-acetylmuramoyl-l-alanine amidase amic
+698	34	34	7	0			Co-chaperone hscb
+748	34	34	8	0			Sodium-potassium/proton antiporter chaa
+937	34	34	10	0			Rod shape-determining protein
+962	34	35	9	0			Colicin uptake protein tolr
+988	34	40	8	0			Terc family protein
+1133	34	34	7	0			Cytochrome c biogenesis heme-transporting atpase ccma
+1150	34	35	8	0			D-sedoheptulose 7-phosphate isomerase
+1257	34	35	9	0			Tonb-dependent receptor
+1260	34	34	8	0			1,4-alpha-glucan branching enzyme
+1305	34	36	9	0			Lyse family translocator
+1309	34	34	9	0			Fe3+-hydroxamate abc transporter atp-binding protein fhuc
+1319	34	34	7	0			Sodium/pantothenate symporter
+1375	34	34	8	0			6-carboxytetrahydropterin synthase qued
+1394	34	34	7	0			Porin ompa
+1505	34	36	9	0			Metalloregulator arsr/smtb family transcription factor
+1507	34	34	8	0			Arginine abc transporter substrate-binding protein
+1908	34	34	7	0			S-methyl-5-thioribose-1-phosphate isomerase
+1929	34	34	8	0			Dksa/trar family c4-type zinc finger protein
+1943	34	34	7	0			Acireductone dioxygenase
+1962	34	34	7	0			Fatty acid oxidation complex subunit alpha fadj
+2106	34	34	8	0			Adenosylmethionine decarboxylase
+2108	34	38	8	0			Had-ib family hydrolase
+2212	34	34	8	0			Potassium/proton antiporter
+2218	34	34	7	0			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+2239	34	34	8	0			Low-specificity l-threonine aldolase
+2376	34	34	7	0			Amp nucleosidase
+2506	34	34	8	0			Rhodanese-related sulfurtransferase
+2542	34	34	9	0			Alkyl hydroperoxide reductase subunit f
+2593	34	34	8	0			Phosphogluconate dehydratase
+2648	34	34	9	0			L-threonine 3-dehydrogenase
+2737	34	34	8	0			Nucleoside diphosphate kinase regulator
+2739	34	34	7	0			Isoprenoid biosynthesis glyoxalase elbb
+2757	34	34	7	0			23s rrna (guanine(1835)-n(2))-methyltransferase rlmg
+2763	34	34	8	0			U32 family peptidase
+2860	34	34	7	0			Dihydroorotase
+2924	34	34	8	0			Nad-dependent malic enzyme
+2998	34	36	8	0			Glycine betaine/l-proline abc transporter atp-binding protein prov
+3025	34	34	8	0			Protein crea
+3027	34	34	7	0			Deoxyribonuclease i
+3071	34	34	8	0			Ribose abc transporter substrate-binding protein rbsb
+3158	34	34	8	0			Transcription/translation regulatory transformer protein rfah
+3313	34	34	8	0			Oxygen-insensitive nadph nitroreductase
+3316	34	35	7	0			N-succinylarginine dihydrolase
+3318	34	34	7	0			Arginine n-succinyltransferase
+3332	34	36	8	0			Benzoate/h(+) symporter bene family transporter
+3451	34	34	8	0			Winged helix-turn-helix domain-containing protein
+3796	34	34	8	0			Tellurite resistance methyltransferase tehb
+4438	34	34	7	0			Peptide abc transporter permease sapc
+4560	34	34	7	0			Putrescine abc transporter permease sapb
+4917	34	34	7	0			Membrane integrity-associated transporter subunit pqic
+4979	34	36	9	0			Fe(3+)-hydroxamate abc transporter substrate-binding protein fhud
+5961	34	34	7	0			Chromosome partition protein mukf
+5983	34	34	7	0			Duf412 domain-containing protein
+6011	34	34	7	0			Topoisomerase dna-binding c4 zinc finger domain-containing protein
+6013	34	34	7	0			Lapa family protein
+6058	34	34	7	0			Lps export abc transporter periplasmic protein lptc
+6059	34	34	7	0			Lipid asymmetry maintenance protein mlab
+6071	34	34	7	0			Phosphopentomutase
+6081	34	34	7	0			Cdp-diacylglycerol--serine o-phosphatidyltransferase
+6098	34	34	7	0			Trab/gumn family protein
+6108	34	34	7	0			3-deoxy-7-phosphoheptulonate synthase arog
+6125	34	34	7	0			Membrane integrity-associated transporter subunit pqia
+6216	34	34	7	0			Dna mismatch repair endonuclease muth
+6251	34	34	7	0			Voc family protein
+6252	34	34	7	0			Lauroyl-kdo(2)-lipid iv(a) myristoyltransferase
+6257	34	34	7	0			Slp family lipoprotein
+6258	34	34	8	0			Fatty acid metabolism transcriptional regulator fadr
+6305	34	34	7	0			Penicillin-insensitive murein endopeptidase
+6354	34	36	7	0			Anaerobic c4-dicarboxylate transporter
+6364	34	34	8	0			1,4-dihydroxy-2-naphthoate polyprenyltransferase
+6413	34	36	7	0			Phosphatidylglycerophosphatase b
+6466	34	34	7	0			Cytidine deaminase
+6511	34	34	7	0			Trna1(val) (adenine(37)-n6)-methyltransferase
+6513	34	34	7	0			Bifunctional chorismate mutase/prephenate dehydrogenase
+6517	34	35	8	0			Carbohydrate porin
+6668	34	34	7	0			Menaquinone-dependent protoporphyrinogen ix dehydrogenase
+6733	34	34	7	0			Thymidine phosphorylase
+6801	34	34	7	0			Replication initiation negative regulator seqa
+6808	34	35	9	0			Galactose-1-epimerase
+6826	34	34	7	0			Chromosome partition protein mukb
+6827	34	34	7	0			L,d-transpeptidase
+6828	34	34	8	0			Ycbk family protein
+6830	34	34	7	0			Intermembrane transport protein pqib
+7535	34	34	10	0			Glycerophosphodiester phosphodiesterase
+104	33	35	9	0			L-lactate permease
+119	33	33	7	0			Laci family dna-binding transcriptional regulator
+177	33	33	7	0			Cytochrome c maturation protein ccme
+178	33	33	7	0			Heme abc transporter permease
+181	33	36	7	0			Abc transporter substrate-binding protein
+183	33	33	7	0			Dipeptide abc transporter permease dppc
+184	33	33	7	0			Dipeptide abc transporter atp-binding protein
+205	33	34	7	0			Disulfide interchange protein
+232	33	33	9	0			Dna-directed rna polymerase subunit alpha
+243	33	33	9	0			30s ribosomal protein s3
+320	33	33	8	0			Amino acid abc transporter atp-binding protein
+324	33	33	7	0			Methylthioribulose 1-phosphate dehydratase
+397	33	33	8	0			Grxa family glutaredoxin
+598	33	33	7	0			Formate dehydrogenase accessory protein fdhe
+699	33	33	7	0			Fe-s protein assembly chaperone hsca
+760	33	33	10	0			Integration host factor subunit alpha
+772	33	35	8	0			Alanine symporter family protein
+860	33	33	8	0			Plp-dependent aspartate aminotransferase family protein
+1261	33	33	8	0			Glycogen synthase glga
+1275	33	33	9	0			C4-dicarboxylic acid transporter daua
+1287	33	33	7	0			Neutral zinc metallopeptidase
+1289	33	36	9	0			Macb family efflux pump subunit
+1386	33	33	8	0			Cation symporter-1
+1453	33	41	10	0			Response regulator
+1499	33	34	9	0			Ygiw/ydei family stress tolerance ob fold protein
+1681	33	34	9	0			Dtdp-4-dehydrorhamnose reductase
+1699	33	33	7	0			Superoxide dismutase
+1705	33	33	9	0			Nramp family divalent metal transporter
+1760	33	34	7	0			Acyl-coa thioesterase
+1773	33	33	8	0			Aspartate 1-decarboxylase
+1850	33	33	8	0			Udp-n-acetylglucosamine--undecaprenyl-phosphate n-acetylglucosaminephosphotransferase
+1944	33	33	7	0			Acireductone synthase
+2259	33	39	9	0			Type ii secretion system major pseudopilin gspg
+2278	33	33	8	0			Kef family k(+) transporter
+2369	33	37	8	0			Na/pi cotransporter family protein
+2652	33	37	8	0			Nark family nitrate/nitrite mfs transporter
+2825	33	33	8	0			Multidrug efflux transporter transcriptional repressor acrr
+2846	33	33	9	0			Flagellar type iii secretion system protein flir
+2848	33	33	8	0			Flagellar basal body-associated protein flil
+2870	33	33	7	0			Ai-2e family transporter ydik
+2871	33	34	7	0			Pyruvate kinase pykf
+2899	33	33	7	0			Universal stress protein uspe
+2918	33	33	8	0			Threonine/homoserine exporter rhta
+2922	33	33	8	0			Dmt family transporter
+2939	33	33	8	0			Flagellar hook-associated protein flgk
+2946	33	33	8	0			Flagellar motor protein motb
+3004	33	33	8	0			Adenylyl-sulfate kinase
+3005	33	33	7	0			Nadph-dependent assimilatory sulfite reductase flavoprotein subunit
+3024	33	33	8	0			Mfs transporter
+3065	33	33	7	0			Aspartate 1-decarboxylase autocleavage activator panm
+3067	33	33	8	0			Heat shock chaperone ibpa
+3068	33	34	8	0			Glutamine synthetase family protein
+3081	33	33	8	0			Flagellar assembly protein flih
+3151	33	33	7	0			Allantoinase puue
+3300	33	33	7	0			Succinylglutamate desuccinylase
+3351	33	33	7	0			Mate family efflux transporter dinf
+3711	33	33	8	0			Flagellar biosynthetic protein flio
+4015	33	33	9	0			Oligopeptide abc transporter permease oppb
+4759	33	33	8	0			Formate transporter foca
+5122	33	33	8	0			Hamp domain-containing histidine kinase
+5295	33	33	7	0			Gnat family n-acetyltransferase
+5817	33	33	7	0			Peptide abc transporter atp-binding protein sapf
+5826	33	33	7	0			Flavodoxin flda
+5886	33	33	7	0			50s ribosomal protein l25
+5913	33	33	8	0			Acetolactate synthase 2 small subunit
+5917	33	33	7	0			Phosphoribulokinase
+5919	33	34	8	0			Transcriptional regulator
+5968	33	33	7	0			Chromosome partition protein muke
+6110	33	33	7	0			Pyridoxal phosphatase
+6193	33	33	7	0			Der gtpase-activating protein yihi
+6226	33	38	8	0			Fructose-1-phosphate/6-phosphogluconate phosphatase
+6279	33	33	7	0			Pts mannitol transporter subunit iicba
+6294	33	33	7	0			Formate c-acetyltransferase
+6306	33	33	7	0			Elongation factor p hydroxylase
+6368	33	33	10	0			Udp-n-acetylglucosamine 2-epimerase (non-hydrolyzing)
+6432	33	33	7	0			Copper homeostasis protein cutc
+6508	33	33	7	0			Duf1007 family protein
+6518	33	33	7	0			Sucrose-6-phosphate hydrolase
+6619	33	33	7	0			Mannitol-1-phosphate 5-dehydrogenase
+6621	33	33	8	0			Glycine c-acetyltransferase
+6700	33	33	7	0			Bifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+6768	33	34	8	0			Beta-galactosidase
+6807	33	35	9	0			Cdf family zinc transporter zitb
+6846	33	33	7	0			Lipoprotein
+6849	33	33	8	0			N-acetylglucosamine kinase
+6930	33	33	7	0			Flap endonuclease xni
+59	32	32	8	0			Ubiquinone reductase (na(+)-transporting) subunit f
+137	32	32	9	0			Dmt family transporter
+167	32	32	8	0			Camp-activated global transcriptional regulator crp
+281	32	32	8	0			Transcriptional regulator asnc
+676	32	33	7	0			2-isopropylmalate synthase
+851	32	32	10	0			Carbon storage regulator csra
+888	32	32	7	0			Divergent polysaccharide deacetylase family protein
+896	32	32	7	0			Duf853 domain-containing protein
+953	32	32	8	0			Yhgn family naat transporter
+1106	32	32	9	0			Electron transport complex subunit rsxa
+1219	32	32	7	0			Pyruvate formate lyase 1-activating protein
+1229	32	32	7	0			Arginine abc transporter atp-binding protein artp
+1280	32	32	7	0			L-cystine transporter
+1452	32	32	8	0			Two-component system sensor histidine kinase envz
+1583	32	32	9	0			Fe(3+)-siderophore abc transporter permease
+1762	32	33	9	0			Polysaccharide biosynthesis tyrosine autokinase
+1802	32	32	9	0			Nadh-quinone oxidoreductase subunit b
+1806	32	32	9	0			Nadh-quinone oxidoreductase subunit nuoi
+2032	32	32	9	0			Alkyl hydroperoxide reductase subunit c
+2142	32	32	8	0			Bifunctional dna-binding transcriptional regulator/o6-methylguanine-dna methyltransferase ada
+2319	32	32	8	0			Alanine transaminase
+2484	32	32	9	0			Rna polymerase sigma factor flia
+2507	32	32	8	0			Redox-sensitive transcriptional activator soxr
+2518	32	32	8	0			Glutathione s-transferase family protein
+2589	32	32	9	0			Cytochrome o ubiquinol oxidase subunit iv
+2730	32	32	7	0			Amino acid abc transporter permease
+2772	32	33	7	0			Duf485 domain-containing protein
+2794	32	33	8	0			Gtpase
+2821	32	32	7	0			Protein deglycase yajl
+2847	32	32	8	0			Flagellar motor switch protein flim
+2859	32	32	8	0			Glucans biosynthesis protein mdog
+2942	32	32	8	0			Flagellar basal body rod protein flgb
+2973	32	32	8	0			Mdta/muxa family multidrug efflux rnd transporter periplasmic adaptor subunit
+3000	32	32	8	0			Bifunctional acetate--coa ligase family protein/gnat family n-acetyltransferase
+3075	32	32	7	0			Si-specific nad(p)(+) transhydrogenase
+3111	32	32	8	0			Glucans biosynthesis glucosyltransferase mdoh
+3143	32	32	7	0			Gamma-glutamylcyclotransferase
+3533	32	35	7	0			Lysr family transcriptional regulator
+3727	32	32	8	0			Phosphatase pap2 family protein
+4914	32	32	9	0			Rhodanese-like domain-containing protein
+5302	32	32	7	0			Cell division protein ftsp
+5864	32	32	7	0			Protein yacl
+5867	32	32	8	0			Rho-binding antiterminator
+5925	32	32	7	0			Type i pantothenate kinase
+5929	32	32	7	0			Dihydroneopterin triphosphate diphosphatase
+5945	32	32	7	0			Lipoprotein nlpi
+5955	32	32	8	0			Cdar family transcriptional regulator
+5958	32	32	7	0			Zinc ribbon-containing protein
+5978	32	32	8	0			Cida/lrga family protein
+6008	32	32	7	0			Phospholipase a
+6015	32	32	7	0			Peptide abc transporter atp-binding protein sapd
+6121	32	32	10	0			Heavy metal-binding domain-containing protein
+6122	32	32	7	0			Lysine exporter lyso family protein
+6230	32	32	7	0			Sucrose-specific pts transporter subunit iibc
+6265	32	32	7	0			Nadp-dependent phosphogluconate dehydrogenase
+6299	32	32	7	0			Nickel/cobalt transporter
+6311	32	32	7	0			Fused pts fructose transporter subunit iia/hpr protein
+6318	32	32	7	0			Uridine diphosphate-n-acetylglucosamine-binding protein yvck
+6866	32	32	7	0			Fe-s cluster assembly protein sufd
+6868	32	32	9	0			Aldo/keto reductase family oxidoreductase
+28	31	31	9	0			50s ribosomal protein l28
+40	31	31	7	0			Alanine--glyoxylate aminotransferase family protein
+133	31	31	8	0			Magnesium/cobalt transporter cora
+206	31	32	7	0			Cytochrome c-type biogenesis protein ccmh
+257	31	31	7	0			Fumarate reductase (quinol) flavoprotein subunit
+847	31	31	9	0			Enoyl-acp reductase fabi
+981	31	31	7	0			Iron donor protein cyay
+999	31	39	7	0			Spermidine/putrescine abc transporter substrate-binding protein potf
+1033	31	31	7	0			Ribosome-associated translation inhibitor raia
+1098	31	31	9	0			Rna polymerase-binding protein dksa
+1541	31	33	8	0			Multidrug/biocide efflux pace transporter
+1587	31	33	9	0			Aaa family atpase
+1808	31	31	9	0			Nadh-quinone oxidoreductase subunit nuok
+1825	31	31	7	0			M48 family metallopeptidase
+1889	31	32	7	0			Ompa family lipoprotein
+2474	31	31	8	0			Ammonia-dependent nad(+) synthetase
+2765	31	31	7	0			N-acetyltransferase
+2784	31	31	7	0			Lysr family transcriptional regulator
+2788	31	31	9	0			Sdr family oxidoreductase
+2815	31	31	7	0			Pyrimidine/purine nucleoside phosphorylase
+2849	31	31	8	0			Flagella biosynthesis chaperone flij
+2927	31	31	8	0			Abc transporter atp-binding protein
+2935	31	38	7	0			Aminobutyraldehyde dehydrogenase
+2947	31	34	8	0			Muramoyltetrapeptide carboxypeptidase
+2975	31	31	7	0			Two-component system sensor histidine kinase baes
+3089	31	31	8	0			Nad(p)h-binding protein
+3092	31	31	7	0			Nad-dependent dna ligase ligb
+3159	31	31	7	0			Amino acid abc transporter permease
+3369	31	34	9	0			Taurine abc transporter atp-binding subunit
+4012	31	31	8	0			Oligopeptide abc transporter substrate-binding protein oppa
+4109	31	31	8	0			Mfs transporter
+4524	31	31	7	0			Lyttr family dna-binding domain-containing protein
+5825	31	31	7	0			Glucosamine-6-phosphate deaminase
+5827	31	31	7	0			Lexa regulated protein
+5850	31	31	7	0			Yhdt family protein
+5898	31	31	7	0			Ribonuclease e inhibitor rrab
+5912	31	31	7	0			Class ii fructose-bisphosphatase
+5926	31	31	7	0			Duf494 family protein
+5974	31	31	8	0			Rok family transcriptional regulator
+5980	31	31	7	0			Endonuclease/exonuclease/phosphatase family protein
+5990	31	31	7	0			Galactose/glucose abc transporter substrate-binding protein mglb
+6039	31	31	7	0			Fe-s cluster assembly protein sufb
+6072	31	31	7	0			Multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase nadr
+6094	31	31	7	0			Duf413 domain-containing protein
+6107	31	31	7	0			Cyd operon protein ybge
+6207	31	31	7	0			Membrane-bound lytic murein transglycosylase mltc
+6308	31	31	7	0			Isochorismate synthase menf
+6358	31	31	7	0			23s rrna pseudouridine(2604) synthase rluf
+6387	31	31	7	0			Mltr family transcriptional regulator
+6484	31	31	7	0			O-succinylbenzoate synthase
+6487	31	31	7	0			2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+6667	31	31	7	0			Uridine phosphorylase
+6671	31	31	7	0			Malate synthase a
+6755	31	31	8	0			Lysophospholipid acyltransferase family protein
+6810	31	31	7	0			Molybdate abc transporter atp-binding protein modf
+6873	31	31	7	0			Ydga family protein
+64	30	30	7	0			Pyrimidine 5'-nucleotidase
+252	30	30	9	0			Glutathione s-transferase
+433	30	31	9	0			Integrase domain-containing protein
+503	30	30	7	0			Metal abc transporter permease
+1432	30	31	9	0			Lysr family transcriptional regulator
+1510	30	30	7	0			Amino acid abc transporter atp-binding protein
+2022	30	30	7	0			Peptidylprolyl isomerase a
+2260	30	30	9	0			Murein tripeptide/oligopeptide abc transporter atp binding protein oppf
+2285	30	30	7	0			C-type cytochrome biogenesis protein ccmi
+2495	30	33	9	0			Flagellar biosynthesis protein fliq
+2536	30	30	9	0			Quaternary ammonium compound efflux smr transporter suge
+2570	30	31	8	0			Csbd family protein
+2741	30	30	8	0			Nad(p)h-dependent oxidoreductase
+2865	30	30	7	0			Aliphatic sulfonates abc transporter atp-binding protein
+2911	30	30	7	0			Gtp-binding protein
+2916	30	30	7	0			Ftr1 family protein
+2953	30	30	7	0			Abc transporter permease
+3014	30	30	7	0			Lysr family transcriptional regulator
+3019	30	30	7	0			Secondary thiamine-phosphate synthase enzyme yjbq
+3097	30	37	7	0			Formate hydrogenlyase transcriptional activator flha
+3100	30	30	7	0			Atp-binding cassette domain-containing protein
+3162	30	30	7	0			Mdtb/muxb family multidrug efflux rnd transporter permease subunit
+3263	30	30	6	0			Selt/selw/selh family protein
+3552	30	30	7	0			Methionine abc transporter permease meti
+3631	30	30	7	0			Lipid kinase yegs
+3678	30	30	7	0			Duf1456 family protein
+3684	30	30	7	0			Lysr family transcriptional regulator
+4174	30	35	9	0			Catb-related o-acetyltransferase
+4195	30	30	7	0			Sdr family oxidoreductase
+4369	30	30	9	0			(2,3-dihydroxybenzoyl)adenylate synthase
+5038	30	30	7	0			N-acetyltransferase
+5807	30	30	8	0			Xanthine phosphoribosyltransferase
+5823	30	30	7	0			Ribosome-associated protein ybcj
+5885	30	30	7	0			Uridine kinase
+5914	30	30	7	0			Galactose/methyl galactoside abc transporter permease mglc
+5933	30	30	7	0			Hth-type transcriptional regulator cbl
+5949	30	30	8	0			Entericidin a/b family lipoprotein
+5987	30	30	7	0			Yejl family protein
+6038	30	30	7	0			Fe-s cluster assembly atpase sufc
+6044	30	30	7	0			Fructosamine kinase family protein
+6296	30	30	7	0			Trna/rrna methyltransferase
+6297	30	30	7	0			Autonomous glycyl radical cofactor grca
+6350	30	30	7	0			Hth-type transcriptional regulator galr
+6357	30	30	9	0			Maltose abc transporter permease malf
+6362	30	30	7	0			Glucose-1-phosphatase
+6591	30	30	7	0			Fe(2+) transporter permease subunit feob
+6641	30	30	7	0			Sugar-phosphatase
+6670	30	30	8	0			Deoxyribonuclease v
+6693	30	30	7	0			Fumarate reductase subunit frdd
+6781	30	30	8	0			Mbl fold metallo-hydrolase
+6821	30	30	7	0			Atp-dependent endonuclease
+2	29	29	10	0			50s ribosomal protein l35
+24	29	29	10	0			50s ribosomal protein l30
+255	29	29	7	0			Succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+259	29	34	8	0			Choline bcct transporter bett
+500	29	29	6	0			Gluconate transporter
+513	29	29	8	0			Hydroxyethylthiazole kinase
+700	29	29	7	0			Isc system 2fe-2s type ferredoxin
+874	29	29	6	0			Dethiobiotin synthase
+998	29	29	8	0			Spermidine/putrescine abc transporter substrate-binding protein potd
+1291	29	29	7	0			Iron uptake system protein efeo
+1292	29	29	7	0			Iron uptake transporter deferrochelatase/peroxidase subunit
+1576	29	32	10	0			Aldo/keto reductase
+1874	29	34	7	0			Efflux rnd transporter periplasmic adaptor subunit
+2107	29	29	7	0			Phosphatidylglycerophosphatase c
+2141	29	32	9	0			Lrp/asnc family transcriptional regulator
+2147	29	29	8	0			Cytochrome bd-i oxidase subunit cydx
+2364	29	30	7	0			Yeca family protein
+2534	29	29	8	0			Acetolactate synthase alss
+2603	29	29	7	0			Cation/acetate symporter actp
+2728	29	29	7	0			Plp-dependent aminotransferase family protein
+2743	29	29	9	0			2,5-didehydrogluconate reductase dkgb
+2780	29	29	9	0			Gnat family acetyltransferase
+2832	29	29	6	0			Amino acid abc transporter permease
+2841	29	29	7	0			Molybdenum-dependent transcriptional regulator
+2842	29	29	6	0			6-phosphogluconolactonase
+2867	29	29	7	0			Aliphatic sulfonate abc transporter permease ssuc
+2869	29	29	6	0			Nadph-dependent fmn reductase
+2945	29	31	8	0			Protein-glutamate o-methyltransferase cher
+2963	29	29	8	0			Isochorismatase
+2974	29	29	7	0			Multidrug efflux rnd transporter permease subunit mdtc
+3002	29	30	7	0			Mfs transporter
+3013	29	29	6	0			Duf167 family protein yggu
+3080	29	29	6	0			Glutamate/aspartate abc transporter permease gltk
+3168	29	29	6	0			Dna-binding protein ybib
+3174	29	29	7	0			Aldo/keto reductase
+3274	29	29	7	0			Glutathione-dependent disulfide-bond oxidoreductase
+3285	29	29	7	0			2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+3355	29	29	6	0			Trna 2-selenouridine(34) synthase mnmh
+3407	29	29	7	0			Glutamine abc transporter substrate-binding protein glnh
+3408	29	29	7	0			H(+)/cl(-) exchange transporter clca
+3492	29	31	8	0			Nitric oxide reductase transcriptional regulator norr
+3577	29	39	6	0			Acyltransferase
+3682	29	29	6	0			Miniconductance mechanosensitive channel mscm
+3744	29	29	6	0			Yebg family protein
+3763	29	29	6	0			23s rrna (adenine(1618)-n(6))-methyltransferase rlmf
+3836	29	29	9	0			Ribonuclease z
+4008	29	31	7	0			Hth-type transcriptional regulator malt
+4078	29	29	8	0			Flagellar basal body p-ring formation protein flga
+4246	29	29	6	0			Atpase rava
+4297	29	29	6	0			Cell division protein dedd
+4567	29	29	7	0			2,3-diphosphoglycerate-dependent phosphoglycerate mutase
+4713	29	29	8	0			Glycine betaine/l-proline abc transporter substrate-binding protein prox
+4764	29	29	6	0			Anaerobic ribonucleoside-triphosphate reductase
+5010	29	29	9	0			Gnat family n-acetyltransferase
+5026	29	30	7	0			Mdr efflux pump acrab transcriptional activator roba
+5818	29	29	6	0			Phage shock protein pspa
+5841	29	30	8	0			Mapeg family protein
+5944	29	29	7	0			Doxx family protein
+5956	29	29	6	0			Pleiotropic regulatory protein rsms
+5971	29	29	6	0			Primosomal replication protein n
+6009	29	29	6	0			Lysophospholipase l2
+6017	29	29	6	0			Envelope stress response membrane protein pspc
+6045	29	29	6	0			Metal-dependent hydrolase
+6046	29	29	6	0			Penicillin-binding protein activator lpob
+6049	29	29	6	0			Ribosomal protein s5-alanine n-acetyltransferase
+6131	29	29	6	0			Atpase rava stimulator viaa
+6142	29	29	6	0			Valine--pyruvate transaminase
+6148	29	29	8	0			Sugar kinase
+6161	29	29	6	0			Duf1145 family protein
+6164	29	29	6	0			Anaerobic ribonucleoside-triphosphate reductase-activating protein
+6169	29	29	7	0			Fumarate reductase subunit frdc
+6171	29	29	7	0			Divalent cation tolerance protein cuta
+6178	29	29	6	0			Secy-interacting protein
+6189	29	29	6	0			Yijd family membrane protein
+6210	29	29	6	0			Flavodoxin fldb
+6235	29	29	6	0			Homoserine o-succinyltransferase
+6237	29	29	8	0			Maltose/maltodextrin abc transporter substrate-binding protein male
+6253	29	29	6	0			Rna chaperone proq
+6288	29	29	8	0			Mipa/ompv family protein
+6293	29	29	6	0			Cell division protein zapc
+6333	29	29	6	0			Dna polymerase iii subunit psi
+6336	29	29	6	0			Hth-type transcriptional regulator sgrr
+6339	29	29	6	0			Sigma factor-binding protein crl
+6365	29	29	6	0			Bifunctional aspartate kinase/homoserine dehydrogenase ii
+6385	29	29	6	0			Ybjn domain-containing protein
+6428	29	29	6	0			Membrane integrity lipid transport subunit yebs
+6449	29	29	7	0			Duf496 family protein
+6482	29	29	6	0			Nicotinamide mononucleotide deamidase-related protein yfay
+6483	29	29	8	0			O-succinylbenzoate--coa ligase
+6502	29	29	6	0			Outer membrane protein assembly factor bamc
+6505	29	29	7	0			Peptidoglycan glycosyltransferase pbpc
+6506	29	29	7	0			Alpha-2-macroglobulin family protein
+6578	29	29	6	0			Asma2 domain-containing protein yhdp
+6623	29	29	6	0			Trna (guanosine(18)-2'-o)-methyltransferase trmh
+6662	29	29	6	0			Guanosine-5'-triphosphate,3'-diphosphate diphosphatase
+6666	29	29	8	0			Lipopolysaccharide n-acetylmannosaminouronosyltransferase
+6707	29	29	6	0			Aspartate carbamoyltransferase regulatory subunit
+6718	29	29	7	0			N-acetylmuramic acid 6-phosphate etherase
+6734	29	29	6	0			Ytjb family periplasmic protein
+6737	29	29	7	0			Acetate uptake transporter
+6744	29	29	6	0			Cell division protein zapd
+6751	29	29	7	0			Allantoate amidohydrolase
+6753	29	29	6	0			Esterase frsa
+6765	29	29	6	0			Smda family multidrug abc transporter permease/atp-binding protein
+6785	29	29	8	0			Isochorismate synthase
+6831	29	29	6	0			Yccf domain-containing protein
+6842	29	29	6	0			Molecular chaperone
+6848	29	29	6	0			Thiamine kinase
+6850	29	29	7	0			Peptidase t
+6875	29	29	6	0			Dna replication terminus site-binding protein
+6925	29	29	6	0			16s rrna (cytosine(1407)-c(5))-methyltransferase rsmf
+4	28	28	10	0			F0f1 atp synthase subunit c
+10	28	28	10	0			30s ribosomal protein s12
+12	28	28	10	0			50s ribosomal protein l14
+13	28	28	8	0			Maltose abc transporter permease malg
+22	28	28	10	0			50s ribosomal protein l16
+44	28	28	9	0			Type b 50s ribosomal protein l36
+298	28	28	7	0			L-seryl-trna(sec) selenium transferase
+300	28	28	7	0			Selenocysteine-specific translation elongation factor
+591	28	31	7	0			Spermidine/putrescine abc transporter permease potb
+619	28	28	7	0			Glycogen phosphorylase
+1060	28	30	9	0			Dmt family transporter
+1368	28	28	8	0			Dtdp-4-amino-4,6-dideoxygalactose transaminase
+1369	28	28	8	0			Udp-4-amino-4-deoxy-l-arabinose aminotransferase
+1450	28	29	7	0			Zn(2+)-responsive transcriptional regulator
+1826	28	28	6	0			Duf2058 domain-containing protein
+1911	28	30	8	0			Sn-glycerol-3-phosphate abc transporter permease ugpa
+1946	28	30	8	0			Gnat family n-acetyltransferase
+2266	28	29	8	0			Type 1 glutamine amidotransferase
+2409	28	28	8	0			Sensor domain-containing diguanylate cyclase
+2625	28	28	7	0			Glycosyltransferase family 4 protein
+2704	28	28	8	0			Bifunctional udp-4-amino-4-deoxy-l-arabinose formyltransferase/udp-glucuronic acid oxidase arna
+2706	28	28	8	0			4-amino-4-deoxy-l-arabinose-phosphoundecaprenol flippase subunit arne
+2707	28	28	8	0			4-amino-4-deoxy-l-arabinose-phosphoundecaprenol flippase subunit arnf
+2732	28	28	6	0			Rnase e specificity factor csrd
+2844	28	28	6	0			Terc family protein
+2881	28	36	7	0			Nitrate reductase subunit alpha
+2882	28	36	7	0			Nitrate reductase subunit beta
+2883	28	28	7	0			Nitrate reductase molybdenum cofactor assembly chaperone
+2885	28	36	7	0			Respiratory nitrate reductase subunit gamma
+2890	28	28	6	0			Terc family protein
+3053	28	30	7	0			Hth-type transcriptional regulator hdfr
+3473	28	28	8	0			Ynfa family protein
+3528	28	28	6	0			Ubiquinone reductase (na(+)-transporting) subunit b
+3670	28	28	8	0			Yqae/pmp3 family membrane protein
+3969	28	28	7	0			Dna-binding transcriptional regulator cytr
+4367	28	28	7	0			Phage shock protein operon transcriptional activator
+4419	28	30	6	0			Nucleoside-specific channel-forming protein tsx
+4434	28	28	7	0			Putrescine aminotransferase
+4822	28	28	6	0			Dna-binding transcriptional repressor deor
+5001	28	28	7	0			Alcohol dehydrogenase
+5853	28	28	6	0			Yqjk-like family protein
+5855	28	28	6	0			Deda family protein
+5881	28	28	6	0			Non-heme ferritin
+5887	28	28	6	0			5'-deoxynucleotidase
+5888	28	28	7	0			Yfcz/yiis family protein
+5927	28	29	7	0			Yihd family protein
+5935	28	28	6	0			Yfcl family protein
+5947	28	28	6	0			Fatty acid biosynthesis protein faby
+5981	28	28	6	0			Sensor histidine kinase
+6048	28	28	6	0			Pts glucose transporter subunit iibc
+6080	28	28	6	0			Rcs stress response system protein rcsf
+6082	28	28	6	0			Holo-acp synthase
+6115	28	28	6	0			Isoaspartyl peptidase/l-asparaginase
+6126	28	28	6	0			Tfox/sxy family dna transformation protein
+6168	28	28	6	0			Gamma-glutamylcyclotransferase
+6177	28	31	6	0			Haaap family serine/threonine permease
+6187	28	28	7	0			Fructokinase
+6190	28	28	6	0			Cell division protein ftsn
+6197	28	28	7	0			Tol-pal system-associated acyl-coa thioesterase
+6215	28	29	8	0			Gnat family n-acetyltransferase
+6250	28	28	7	0			L-arabinose abc transporter atp-binding protein arag
+6309	28	28	6	0			Class i ribonucleotide reductase maintenance protein yfae
+6327	28	28	7	0			Glutaminase b
+6343	28	28	6	0			Smdb family multidrug efflux abc transporter permease/atp-binding protein
+6407	28	28	6	0			Peptide abc transporter substrate-binding protein
+6423	28	28	7	0			Sensor histidine kinase
+6467	28	28	6	0			Duf418 family protein
+6486	28	28	7	0			2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+6645	28	28	7	0			Molybdopterin-guanine dinucleotide biosynthesis protein mobb
+6678	28	28	8	0			Maltose operon protein malm
+6691	28	28	8	0			L-methionine/branched-chain amino acid transporter
+6738	28	28	8	0			Transcriptional activator nhar
+6819	28	37	7	0			Doxx family protein
+6879	28	28	6	0			Rok family transcriptional regulator
+6883	28	28	7	0			Cobalamin-independent methionine synthase ii family protein
+7019	28	28	6	0			Na(+)-translocating nadh-quinone reductase subunit c
+1	27	27	10	0			30s ribosomal protein s19
+94	27	28	8	0			Two-component system response regulator arca
+160	27	27	9	0			50s ribosomal protein l33
+414	27	27	10	0			Acyl carrier protein
+497	27	28	7	0			Lytic murein transglycosylase
+530	27	27	6	0			Adenosylhomocysteinase
+872	27	27	9	0			Leucine-responsive transcriptional regulator lrp
+1226	27	27	7	0			Ynbe family lipoprotein
+1262	27	27	9	0			Duf1328 domain-containing protein
+1353	27	27	8	0			Amino acid abc transporter permease
+1442	27	27	7	0			Proton symporter gltp
+1491	27	32	7	0			Alcohol dehydrogenase adhp
+1496	27	27	9	0			Zinc transporter zupt
+1651	27	27	6	0			Asma family protein
+1742	27	27	6	0			P-hydroxybenzoic acid efflux pump subunit aaea
+1790	27	28	7	0			Efflux rnd transporter periplasmic adaptor subunit
+1977	27	27	7	0			Cell envelope integrity protein cred
+2042	27	27	7	0			O-acetyl-adp-ribose deacetylase
+2287	27	28	6	0			Two-component system sensor histidine kinase rcsc
+2401	27	27	8	0			Nitrite reductase small subunit nird
+2432	27	27	8	0			Class i sam-dependent methyltransferase
+2574	27	27	8	0			Xylulokinase
+2705	27	27	7	0			4-deoxy-4-formamido-l-arabinose-phosphoundecaprenol deformylase
+2786	27	27	7	0			Flavocytochrome c
+2796	27	29	7	0			Cytochrome b561
+2833	27	27	6	0			Amino acid abc transporter substrate-binding protein
+3035	27	27	7	0			Two-component system response regulator pmra
+3128	27	27	8	0			Ribosome modulation factor
+3145	27	27	6	0			Vitamin b12 abc transporter permease btuc
+3201	27	34	7	0			Tolc family outer membrane protein
+3202	27	27	7	0			Fusc family protein
+3696	27	28	9	0			Type vi secretion system membrane subunit tssm
+3703	27	27	8	0			Lyse family translocator
+3720	27	27	6	0			Heme exporter protein ccmd
+3735	27	27	6	0			Emmdr/yeeo family multidrug/toxin efflux mate transporter
+3765	27	27	7	0			Yip1 family protein
+3767	27	27	7	0			Duf1615 domain-containing protein
+3957	27	35	8	0			Hcp family type vi secretion system effector
+4091	27	27	6	0			Sulfate abc transporter substrate-binding protein
+4276	27	27	7	0			Mlic family protein
+4530	27	27	8	0			Tonb-dependent siderophore receptor
+4760	27	27	6	0			Peptide abc transporter substrate-binding protein sapa
+4933	27	27	6	0			3-deoxy-7-phosphoheptulonate synthase
+5862	27	27	6	0			Trp operon repressor
+5863	27	27	7	0			L-arabinose isomerase
+5876	27	27	7	0			L-arabinose abc transporter permease arah
+5896	27	27	6	0			Lipoprotein
+5938	27	27	7	0			Pts glucose transporter subunit iia
+5959	27	27	6	0			Aspartate:alanine antiporter
+5962	27	27	6	0			Macrodomain ter protein matp
+5991	27	27	8	0			Galactose/methyl galactoside abc transporter atp-binding protein mgla
+6016	27	27	6	0			Envelope stress response membrane protein pspb
+6051	27	27	6	0			Phosphatase
+6077	27	27	6	0			Gmp reductase
+6106	27	27	6	0			Ybfa family protein
+6184	27	29	9	0			Multidrug efflux mfs transporter
+6192	27	27	6	0			Duf805 domain-containing protein
+6273	27	27	6	0			Yoah family protein
+6276	27	30	6	0			6-phosphogluconate phosphatase
+6366	27	27	6	0			Eca oligosaccharide polymerase
+6367	27	27	7	0			Lipid ii n-acetylfucosaminyltransferase
+6440	27	27	9	0			Very short patch repair endonuclease
+6469	27	27	7	0			Mannonate dehydratase
+6570	27	27	8	0			Glucuronate isomerase
+6664	27	27	6	0			Dtdp-4-amino-4,6-dideoxy-d-galactose acyltransferase
+6741	27	27	6	0			Ribulokinase
+6864	27	27	6	0			Vitamin b12 abc transporter atp-binding protein btud
+7138	27	28	7	0			5-dehydro-2-deoxygluconokinase
+7139	27	27	7	0			3d-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+11891	27	29	6	0			Peroxiredoxin
+38	26	26	7	0			Fe-s cluster assembly scaffold iscu
+780	26	26	7	0			Gnat family n-acetyltransferase
+1096	26	26	8	0			Dna-binding transcriptional regulator fis
+1269	26	26	7	0			Transcriptional repressor mpra
+1333	26	29	8	0			2,3-dehydroadipyl-coa hydratase
+1360	26	31	10	0			4-oxalomesaconate tautomerase
+1481	26	28	8	0			Abc transporter atp-binding protein
+1484	26	26	10	0			Mfs transporter
+1500	26	26	7	0			Sn-glycerol-3-phosphate abc transporter permease ugpe
+1522	26	26	7	0			Dmt family transporter
+1569	26	26	6	0			Phosphate-starvation-inducible protein psie
+1921	26	26	7	0			Endonuclease/exonuclease/phosphatase family protein
+1978	26	26	7	0			Two-component system sensor histidine kinase crec
+2050	26	26	8	0			Cyclopropane-fatty-acyl-phospholipid synthase family protein
+2100	26	26	6	0			Cystathionine beta-synthase
+2148	26	26	7	0			Tonb-dependent receptor
+2814	26	35	6	0			Lysr family transcriptional regulator
+2868	26	26	6	0			Fmnh2-dependent alkanesulfonate monooxygenase
+2993	26	26	6	0			Gamma-glutamyltransferase family protein
+3032	26	26	7	0			Glyoxylate bypass operon transcriptional repressor iclr
+3273	26	26	7	0			Isochorismatase family protein
+3281	26	26	7	0			Allantoin racemase
+3390	26	32	6	0			Sigma-54-dependent fis family transcriptional regulator
+3443	26	26	6	0			Dihydromonapterin reductase
+3452	26	26	8	0			Dmt family transporter
+3455	26	26	8	0			Nuclear transport factor 2 family protein
+3530	26	26	6	0			Nadh:ubiquinone reductase (na(+)-transporting) subunit e
+3646	26	28	7	0			Transcriptional regulator beti
+3660	26	28	8	0			Taurine abc transporter permease tauc
+3669	26	26	8	0			Peroxiredoxin c
+3673	26	26	6	0			Vf530 family protein
+3719	26	26	8	0			Lysr family transcriptional regulator
+3753	26	26	7	0			Hemin-degrading factor
+3772	26	26	6	0			Ybay family lipoprotein
+3788	26	26	6	0			Multidrug/spermidine efflux smr transporter subunit mdtj
+3799	26	30	6	0			Duf1161 domain-containing protein
+3830	26	27	7	0			Cyclic-guanylate-specific phosphodiesterase
+3907	26	26	7	0			Murr/rpir family transcriptional regulator hpxu
+4028	26	26	7	0			Xylose abc transporter atp-binding protein
+4215	26	26	6	0			Exonuclease subunit sbcc
+4222	26	26	7	0			Ribose 1,5-bisphosphokinase
+4268	26	28	7	0			O-methyltransferase
+4289	26	26	7	0			Tetr/acrr family transcriptional regulator
+4484	26	26	7	0			Gnat family n-acetyltransferase
+5048	26	30	7	0			Glutaredoxin-dependent arsenate reductase
+5241	26	26	7	0			Had-iia family hydrolase
+5809	26	26	7	0			Met regulon transcriptional regulator metj
+5838	26	26	9	0			Spermidine n1-acetyltransferase
+5851	26	26	7	0			Transcriptional regulator argr
+5854	26	26	6	0			Phage holin family protein
+5865	26	26	6	0			Duf3461 family protein
+5877	26	26	7	0			Arabinose abc transporter substrate-binding protein
+6064	26	26	7	0			Galactarate dehydratase
+6086	26	26	6	0			Gdp-mannose pyrophosphatase nudk
+6157	26	26	7	0			Sn-glycerol-3-phosphate abc transporter substrate-binding protein ugpb
+6290	26	26	6	0			Alpha/beta hydrolase ycfp
+6403	26	26	6	0			Ydbh family protein
+6530	26	26	6	0			Carbamoyltransferase hypf
+6555	26	26	6	0			6-phospho-beta-glucosidase
+6574	26	26	6	0			Yhbp family protein
+6736	26	26	6	0			Trna/rrna methyltransferase
+6750	26	27	7	0			Glucarate dehydratase
+6788	26	26	6	0			Abc transporter permease
+6847	26	26	6	0			Gfo/idh/moca family oxidoreductase
+6857	26	26	6	0			Duf441 domain-containing protein
+6874	26	26	6	0			Mannose-6-phosphate isomerase
+6933	26	29	7	0			Copper-binding protein
+7018	26	26	6	0			Na(+)-translocating nadh-quinone reductase subunit a
+7020	26	26	6	0			(na+)-nqr maturation nqrm
+7136	26	26	7	0			5-deoxy-glucuronate isomerase
+9446	26	26	8	0			Fad-dependent oxidoreductase
+9447	26	26	8	0			Duf1365 domain-containing protein
+81	25	25	6	0			Penicillin-binding protein activator
+191	25	27	7	0			Aquaporin family protein
+1327	25	25	7	0			Fmn-dependent l-lactate dehydrogenase lldd
+1358	25	26	7	0			Lysr substrate-binding domain-containing protein
+1743	25	25	6	0			Efflux transporter outer membrane subunit
+1875	25	25	9	0			Nitronate monooxygenase
+1910	25	27	8	0			Sugar abc transporter permease
+1938	25	28	5	0			Isovaleryl-coa dehydrogenase
+2119	25	26	7	0			Formimidoylglutamase
+2389	25	25	7	0			Malonic semialdehyde reductase
+2557	25	25	7	0			Adenosylcobinamide-phosphate synthase cbib
+2585	25	26	7	0			Helix-turn-helix domain-containing protein
+2734	25	25	6	0			P-hydroxybenzoic acid efflux pump subunit aaeb
+2819	25	25	6	0			Proline-specific permease proy
+2829	25	27	8	0			Transcriptional regulator rcsb
+3066	25	26	6	0			Mfs transporter
+3205	25	26	6	0			Glutathione abc transporter substrate-binding protein gsib
+3529	25	25	6	0			Nadh:ubiquinone reductase (na(+)-transporting) subunit d
+3537	25	25	7	0			Urea abc transporter permease subunit urtb
+3538	25	25	7	0			Urea abc transporter permease subunit urtc
+3539	25	25	7	0			Urea abc transporter atp-binding protein urtd
+3540	25	25	7	0			Urea abc transporter atp-binding subunit urte
+3598	25	25	8	0			Gntr family transcriptional regulator
+3628	25	32	7	0			Atp-binding protein
+3692	25	26	8	0			Type vi secretion system lipoprotein tssj
+3695	25	26	8	0			Dotu family type vi secretion system protein
+3747	25	25	6	0			Lysr family transcriptional regulator
+3751	25	26	8	0			Fad-dependent urate hydroxylase hpxo
+3754	25	27	6	0			Osmotically-inducible lipoprotein osme
+3789	25	25	6	0			Multidrug/spermidine efflux smr transporter subunit mdti
+3825	25	26	6	0			Nitrogen assimilation transcriptional regulator nac
+3838	25	27	6	0			Gnat family n-acetyltransferase
+3955	25	26	8	0			Type vi secretion system protein tssa
+3970	25	29	7	0			Type ii secretion system secretin gspd
+4273	25	25	6	0			6-n-hydroxylaminopurine resistance protein
+4332	25	27	7	0			Maltose o-acetyltransferase
+4593	25	25	6	0			D-serine/d-alanine/glycine transporter
+4954	25	30	7	0			Mfs transporter
+5099	25	25	8	0			Abc transporter substrate-binding protein
+5236	25	25	6	0			23s rrna (uracil(747)-c(5))-methyltransferase rlmc
+5296	25	26	8	0			Iron abc transporter permease
+5943	25	25	8	0			Transcriptional regulator exur
+5977	25	25	6	0			Duf1488 domain-containing protein
+5995	25	31	6	0			Sensor histidine kinase
+6042	25	25	6	0			Duf481 domain-containing protein
+6090	25	25	6	0			Putative dna-binding transcriptional regulator
+6116	25	26	6	0			Glutathione abc transporter permease gsic
+6222	25	25	6	0			Hydrogenase expression/formation protein hype
+6262	25	26	7	0			Glucose pts transporter subunit eiib
+6310	25	25	6	0			Amino acid abc transporter permease
+6359	25	25	6	0			Ytfj family protein
+6435	25	25	6	0			Tyrosine transporter tyrp
+6512	25	26	7	0			Smp-30/gluconolactonase/lre family protein
+6549	25	25	6	0			Bifunctional acyl-acp--phospholipid o-acyltransferase/long-chain-fatty-acid--acp ligase
+6579	25	25	6	0			Duf1992 domain-containing protein
+6607	25	25	6	0			Glycosyl hydrolase family 8
+6616	25	26	7	0			Xylose isomerase
+6665	25	25	6	0			Lipid iii flippase wzxe
+6669	25	25	6	0			2-iminoacetate synthase thih
+6726	25	25	6	0			Duf2501 domain-containing protein
+6787	25	25	6	0			Sugar abc transporter atp-binding protein
+6803	25	25	6	0			Endonuclease viii
+6820	25	25	6	0			Hydroxylamine reductase
+6862	25	25	6	0			Ynib family protein
+6880	25	25	7	0			Tat proofreading chaperone dmsd
+6892	25	25	7	0			Atp-binding cassette domain-containing protein
+6913	25	25	6	0			Transporter substrate-binding domain-containing protein
+7037	25	26	7	0			Type ii secretion system minor pseudopilin gsph
+7039	25	25	7	0			Type ii secretion system minor pseudopilin gspj
+7070	25	25	7	0			Methionine synthase
+9869	25	25	6	0			Multidrug efflux mfs transporter mdth
