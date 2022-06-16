@@ -40,7 +40,7 @@
 
 Сводная таблица по выбранным кластерам:
 
-| № | #Species | Genes | Genuses | Genes with Z-DNA | Max ZH-score | Function |
+| № | #Species | Genes | Genuses | Genes with Z-DNA | Max ZH-score | Mean ZH-Sqore | Function |
 |---|---|---|---|---|---|---|
 | 977 | 50 | 73 | 10 | 18 | 211093.9 | 35448.16305 | Cysteine desulfurase |
 | 1391 | 48 | 69 | 10 | 18 | 23787.35 | 6762.25306667 | Sec-independent protein tranclocase subunit tata |
